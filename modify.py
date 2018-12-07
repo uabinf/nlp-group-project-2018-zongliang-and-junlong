@@ -1,6 +1,6 @@
 import os
 
-file = open('abstract.json','r')
+file = open('abstract10000.json','r')
 content = file.read()
 file.close()
 os.remove("abstract.json")
