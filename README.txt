@@ -7,7 +7,7 @@ pandas, codecs, pprint, json, re, statistics, nltk, gensim, sklearn, sknn, sys, 
 
 The input file includes:
 1.'abstract10000.json' (exported from oracle database and original from the NCBI)
-2.'gene2pubtator.txt' (ftp://ftp.ncbi.nlm.nih.gov/pub/lu/PubTator/)
+2.'gene2pubtatorTruncated.txt' (ftp://ftp.ncbi.nlm.nih.gov/pub/lu/PubTator/)
 3.'negationAnnotated' (human annotated)
 4.'isolatorAnnotated.txt' (human annotated)
 5.'regulationAnnotated.txt' (human annotated)
