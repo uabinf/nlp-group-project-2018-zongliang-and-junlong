@@ -1,0 +1,2363 @@
+PMID	NCBI_Gene	Mentions	Resource
+7800381	24493	interleukin-1 alpha	GNormPlus
+7800381	24835	tumor necrosis factor alpha	GNormPlus
+7800478	6256	retinoid X receptor|RXR	GNormPlus
+7800482	852810	RPB9	gene2pubmed|GNormPlus
+7800482	854068	ADH1	GNormPlus
+7800489	6285	nef	GNormPlus
+7800498	22882	RAF|RNA polymerase activating factor	GNormPlus
+7800498	5781	non-structural protein 1|NS1	GNormPlus
+7800499	20468888	cyclic AMP receptor protein|CAP	GNormPlus
+7800457	717	CO2	GNormPlus
+7800579	1906	ET-1|Endothelin-1|endothelin-1	GNormPlus
+7800585	3630	insulin	GNormPlus
+7800637	292	T-2	GNormPlus
+7800649	418049	Rhodanese|rhodanese	GNormPlus
+7800505	5321	cPLA2|cytosolic phospholipase A2	GNormPlus|gene2pubmed
+7800505	3458	interferon-gamma	GNormPlus
+7800566	1442	CSH, 1	GNormPlus
+7800566	1443	CSH, 2	GNormPlus
+7800726	25298	CCK	GNormPlus
+7800740	12575	P21	GNormPlus
+7800740	13184	P20	GNormPlus
+7800740	20194	P10	GNormPlus
+7800711	2147	serine protease	GNormPlus
+7800679	15111	Th2	GNormPlus
+7800679	3565	IL-4	GNormPlus
+7800679	3567	IL-5	GNormPlus
+7800679	51497	Th1	GNormPlus
+7800679	57314	Th1	GNormPlus
+7800689	403845	fibronectin	GNormPlus
+7800688	15461	p21ras	GNormPlus
+7800688	16367	insulin receptor substrate-1	GNormPlus
+7800688	19123	Proc	GNormPlus
+7800856	4922	neurotensin/neuromedin N	GNormPlus
+7800856	611687	neurotensin	GNormPlus
+7800912	373156	Glutathione S-transferase|GST	GNormPlus
+7800933	116637	CCl4	GNormPlus
+7800935	3558	lymphokine	GNormPlus
+7800938	3683	LFA-1	GNormPlus
+7800940	3558	IL2	GNormPlus
+7800941	3569	IL6	GNormPlus
+7800941	7124	TNF alpha	GNormPlus
+7800951	653820	p17	GNormPlus
+7800826	759	CA1	GNormPlus
+7800847	395564	PP|pancreatic polypeptide	GNormPlus
+7800847	396464	neuropeptide Y	GNormPlus
+7800850	443329	growth hormone|GH	GNormPlus
+7800853	7432	VIP|VIP (1-100 nM	GNormPlus
+7800854	475257	NPY|Neuropeptide Y	GNormPlus
+7800989	3569	IL-6|interleukin-6	GNormPlus
+7800989	7124	TNF-alpha|tumor necrosis factor	GNormPlus
+7801023	23092	Graf	GNormPlus
+7801114	3981	DNA repair enzyme	GNormPlus
+7800952	3689	CD18	GNormPlus
+7800954	10242	beta 2	GNormPlus
+7800958	4353	myeloperoxidase|Myeloperoxidase|MPO	GNormPlus
+7800972	551	antidiuretic hormone	GNormPlus
+7800982	920	CD4	GNormPlus
+7800982	925	CD8	GNormPlus
+7800985	4582	CA 15-3	GNormPlus
+7801073	2033	P300	GNormPlus
+7801093	717	CO2	GNormPlus
+7801102	5241	progesterone-receptor	GNormPlus
+7801123	6908	TATA-binding protein|TBP	gene_interactions|BioGRID|MESH|HPRD|GNormPlus|gene2pubmed
+7801123	9013	SL1|TAFI110	gene2pubmed|BioGRID|GNormPlus|gene_interactions|MESH
+7801123	6872	TAFII250	GNormPlus
+7801128	6598	INI1|integrase interactor 1	gene_interactions|GNormPlus|MESH|gene2pubmed
+7801128	852592	SNF5	GNormPlus
+7801052	4580	MTX	GNormPlus
+7801055	151516	SASP	GNormPlus
+7801056	1906	ET-1|Endothelin-1|endothelin-1	GNormPlus
+7801059	3106	HLA-B27	GNormPlus
+7801069	391109	OR 1.6	GNormPlus
+7801069	4994	OR 4.0	GNormPlus
+7801139	6741	SSB	GNormPlus
+7801139	968	CD68	GNormPlus
+7801140	5394	PM-Scl	GNormPlus
+7801142	1437	granulocyte-macrophage colony-stimulating factor	GNormPlus
+7801147	1437	Granulocyte-macrophage colony-stimulating factor	GNormPlus
+7801220	1906	endothelin-1 and cyclooxygenase	GNormPlus
+7801299	17967	N-CAM|neural cell adhesion molecule	GNormPlus|gene2pubmed
+7801299	18505	splotch	GNormPlus|gene2pubmed
+7801318	301252	hsp84	GNormPlus
+7801318	63868	hsp60	GNormPlus
+7801327	231691	SDH	GNormPlus
+7801327	25044	SDH	GNormPlus
+7801327	25721	aspartate aminotransferase|AST	GNormPlus
+7801327	76282	alanine aminotransferase|ALT	GNormPlus
+7801328	100735368	CCl4	GNormPlus
+7801339	183	angiotensin II	GNormPlus
+7801339	3630	insulin	GNormPlus
+7801342	6395	sea|Sea	GNormPlus
+7801346	24323	ET-1|endothelin-1	GNormPlus
+7801346	366270	endothelin-3|ET-3	GNormPlus
+7801198	6737	SS-A	GNormPlus
+7801199	6741	SSB	GNormPlus
+7801205	3569	IL-6	GNormPlus
+7801205	7124	TNF-alpha	GNormPlus
+7801205	920	CD4	GNormPlus
+7801205	925	CD8	GNormPlus
+7801414	2796	LH-RH	GNormPlus
+7801417	1906	endothelin-1	GNormPlus
+7801417	1908	endothelin-3	GNormPlus
+7801428	7431	vimentin	GNormPlus|MESH
+7801429	100059734	glucose-6-phosphate dehydrogenase|G6PD	GNormPlus
+7801429	2539	G6PD|Glucose-6-phosphate dehydrogenase	GNormPlus
+7801465	403795	growth hormone	GNormPlus
+7801347	12504	CD4	GNormPlus
+7801347	12506	CD4-8	GNormPlus
+7801347	21331	T-2	GNormPlus
+7801388	1756	dystrophin	GNormPlus|MESH
+7801584	5617	prolactin|Prolactin	GNormPlus
+7801511	100188845	CODA	GNormPlus
+7801517	1489587	VP1	GNormPlus
+7801517	1489588	VP2	GNormPlus
+7801657	795	CabP	GNormPlus
+7801659	8513	Gastric lipase	GNormPlus
+7801688	253260	Pia	GNormPlus
+7801702	2688	growth hormone	GNormPlus
+7801702	2691	"Growth hormone releasing hormone""|GHRH"	GNormPlus
+7801603	718	C3a	GNormPlus
+7801603	720	C4a	GNormPlus
+7801603	728	C5a	GNormPlus
+7801609	2875	alanine aminotransferase	GNormPlus
+7801611	2533	Fyb	GNormPlus
+7801611	28	ABO	GNormPlus
+7801612	28	ABO	GNormPlus
+7801615	2720	beta-galactosidase	GNormPlus
+7801617	2993	glycophorin A	GNormPlus
+7801617	7485	Wrb	GNormPlus
+7801625	2244	fibrinogen	GNormPlus
+7801633	717	CO2	GNormPlus
+7801725	7431	vimentin	GNormPlus|MESH
+7801725	4000	lamin	GNormPlus
+7801727	16160	P40	GNormPlus
+7801727	2201	CCA|Sepharose 4 B coupled with 1 G 10 IgG, colonic carcinoma-associated antigen (CCA)	GNormPlus
+7801766	24179	angiotensin II	GNormPlus
+7801766	24323	ET-1|Endothelin-1|endothelin-1	GNormPlus
+7801767	5319	phospholipase A2|PLA2	GNormPlus
+7801776	107698	Tim	GNormPlus
+7801776	11555	beta 2-adrenoceptor	GNormPlus
+7801776	16728	L-1 and 113 +/- 6, 6.3	GNormPlus
+7801779	100716297	Rb1	GNormPlus
+7801783	24323	Endothelin-1|endothelin-1	GNormPlus
+7801791	246281	Hydroxyindole-O-methyltransferase|hydroxyindole-O-methyltransferase|HIOMT	GNormPlus
+7801791	396286	HIOMT	GNormPlus
+7801714	6717	Sri	GNormPlus
+7801887	4613	N-myc	GNormPlus
+7801889	3383	ICAM1	GNormPlus
+7801889	6401	E-selectin	GNormPlus
+7801889	7412	VCAM1	GNormPlus
+7801889	920	CD4	GNormPlus
+7801889	925	CD8	GNormPlus
+7801803	2934	Gelsolin	GNormPlus|MESH
+7801806	4640	Brush border myosin I	GNormPlus
+7801808	79784	myosin	GNormPlus
+7801811	2934	gelsolin	GNormPlus
+7801815	2934	gelsolin	GNormPlus|MESH
+7801830	79784	myosin	GNormPlus
+7801835	5544	g-1	GNormPlus
+7801835	79784	myosin	GNormPlus
+7801838	58492	pT1	GNormPlus
+7801838	7694	pT3	GNormPlus
+7801940	3265	H-ras	GNormPlus
+7801940	644914	p21	GNormPlus
+7801954	3329	groEL	GNormPlus
+7801974	572	bad|Bad	GNormPlus
+7801985	2688	Growth hormone	GNormPlus
+7801986	920	CD4	GNormPlus
+7801999	410	ARSA|Arylsulfatase A|arylsulfatase A	MESH|GNormPlus
+7802001	2562	GABRB3	GNormPlus
+7801896	2147	prothrombin	GNormPlus
+7801898	5054	PAI-1|plasminogen activator inhibitor-1	GNormPlus
+7801898	5327	tissue-plasminogen activator (t-PA|t-PA	GNormPlus
+7801898	5345	alpha 2AP|alpha 2-antiplasmin|alpha 2-AP	GNormPlus
+7801899	1437	GM-CSF	GNormPlus
+7801900	54474	CD20	GNormPlus
+7801900	5788	CD45	GNormPlus
+7801900	596	bcl-2	GNormPlus
+7801900	6693	CD43	GNormPlus
+7801900	7345	UCHL1	GNormPlus
+7801902	5243	P-glycoprotein|P-gp	MESH|GNormPlus
+7802691	2357	fMLP	GNormPlus
+7802704	7172	thiopurine methyltransferase|TPMT|Thiopurine methyltransferase	GNormPlus
+7802105	6531	dopamine transporter	GNormPlus
+7802339	1401	C-reactive protein|CRP	GNormPlus|MESH
+7802339	8991	steroid-binding plasma protein|SBP	GNormPlus
+7802346	1071	CETP|cholesteryl ester transfer protein	MESH|GNormPlus
+7802705	373156	glutathione-S-transferase|GST	GNormPlus
+7802705	597	A1 and dnacin B1	GNormPlus
+7802705	983	p34cdc2	GNormPlus
+7802705	994	cdc25B	GNormPlus
+7802705	995	cdc25	GNormPlus
+7802710	246281	hydroxy-indole-o-methyl transferase|HIOMT	GNormPlus
+7802348	2147	Thrombin|thrombin	GNormPlus
+7802353	920	CD4	GNormPlus
+7802717	3156	HMG CoA reductase	GNormPlus
+7802717	3949	LDL-receptor	GNormPlus
+7802535	10320	iK1	GNormPlus
+7802724	1056	cholesterol esterase	GNormPlus
+7802728	338	apolipoprotein B	GNormPlus
+7802729	335	apo A1	GNormPlus
+7802729	4018	Lp(a)	GNormPlus
+7802126	717	CO2	GNormPlus
+7802545	966	min-1 (mg protein).-1|min-1 (mg cell protein)-1	GNormPlus
+7802560	999	E-cadherin	GNormPlus
+7802140	28	ABO	GNormPlus
+7802141	1084	CEA|carcinoembryonic antigen	GNormPlus
+7802141	174	AFP|alpha-fetoprotein	GNormPlus
+7802565	5443	adrenocorticotropic hormone	GNormPlus
+7802764	9463	pick	GNormPlus
+7802774	100379198	ECT	GNormPlus
+7802172	54956	Part 15	GNormPlus
+7802168	7431	vimentin	GNormPlus|MESH
+7802168	12	alpha-1-antichymotrypsin	GNormPlus
+7802168	6271	S-100	GNormPlus
+7802169	920	CD4	GNormPlus
+7802169	925	CD8	GNormPlus
+7802410	759	CA1	GNormPlus
+7802410	761	CA3	GNormPlus
+7802584	3845	K-ras	GNormPlus
+7802039	2200	FBN1	GNormPlus|MESH
+7802041	250	ALPP	GNormPlus
+7802041	3815	c-kit	GNormPlus
+7802041	5077	WS1|HuP2|PAX3	GNormPlus
+7802419	25147	aromatase	GNormPlus
+7802603	1437	GM-CSF	GNormPlus
+7802603	2214	CD16	GNormPlus
+7802603	3562	IL-3	GNormPlus
+7802603	3567	Interleukin-5|IL-5	GNormPlus
+7802603	928	CD9	GNormPlus
+7802423	1813	dopamine receptor D2	GNormPlus
+7802423	2249	hst	GNormPlus
+7802423	2778	Gs alpha	GNormPlus
+7802423	5449	Pit-1	GNormPlus
+7802428	7040	Transforming growth factor-beta|TGF-beta	GNormPlus
+7802429	7040	TGF-beta	GNormPlus
+7802429	7124	TNF-alpha	GNormPlus
+7802604	1437	GM-CSF	GNormPlus
+7802604	2214	CD16	GNormPlus
+7802604	3458	IFN-gamma	GNormPlus
+7802604	3562	IL-3	GNormPlus
+7802604	3567	IL-5	GNormPlus
+7802604	7040	TGF-beta|TGF-beta 1	GNormPlus
+7802608	13645	epidermal growth factor	GNormPlus
+7802430	3973	LH receptor	GNormPlus
+7802430	7253	TSH receptor	GNormPlus
+7802624	539955	crop|Crop	GNormPlus
+7802626	270	AMPD1|AMP deaminase|AMPD	GNormPlus
+7802626	79784	myosin	GNormPlus
+7802263	4155	maltose binding protein|MBP	GNormPlus
+7802636	1571	CYP2E1	GNormPlus
+7802638	183	angiotensinogen	GNormPlus
+7802643	760	"Ca2+ (""Ca2+ cycling"""	GNormPlus
+7802647	325	SAP|serum amyloid P component	GNormPlus
+7802648	7421	VDR|vitamin D receptor	GNormPlus
+7802649	11691	ALP	GNormPlus
+7802649	16193	IL-6	GNormPlus
+7802650	3351	5-HT1D beta|serotonin 1D beta receptor	gene2pubmed|GNormPlus
+7802652	280794	fibronectin	GNormPlus
+7802652	281849	cation independent mannose-6-phosphate receptor|IGF-II receptor	GNormPlus
+7802652	317695	BSPA3	GNormPlus
+7802652	407187	PDC 109	GNormPlus
+7802653	21418	AP-2	GNormPlus
+7802653	21429	UBF	GNormPlus
+7802654	24476	IAPP	GNormPlus
+7802654	3375	IAPP	GNormPlus
+7802654	796	CGRP	GNormPlus
+7802654	797	beta-CGRP	GNormPlus
+7802656	7124	TNF alpha	GNormPlus
+7802659	100008601	retinal oxidase	GNormPlus
+7802084	704701	interleukin-1 beta	GNormPlus
+7802084	705819	interleukin-6	GNormPlus
+7802084	715467	tumor necrosis factor-alpha	GNormPlus
+7802662	17229	MMCP-6|mast cell protease 6	MESH|GNormPlus
+7802662	17342	MITF	gene2pubmed|GNormPlus|MESH
+7802668	7056	TM|thrombomodulin	GNormPlus|MESH
+7802093	3105	HLA-A	GNormPlus
+7802302	717	CO2	GNormPlus
+7802672	10249	ACGNAT|glycine n-acyltransferase	gene2pubmed|GNormPlus
+7802677	171039	Rabphilin-3A|rabphilin-3A	gene2pubmed|GNormPlus|RGD
+7802677	29244	GTP cyclohydrolase I	gene2pubmed|RGD|GNormPlus
+7802677	25531	Rab3A	GNormPlus
+7802679	100731633	apo E	GNormPlus
+7803521	1956	epidermal growth factor (EGF) receptor|EGF receptor	GNormPlus
+7803522	292661	prostacyclin receptor	GNormPlus|gene2pubmed
+7803126	2099	ER|Estrogen Receptor	GNormPlus
+7803538	4193	MDM2	GNormPlus
+7803538	5243	MDR1	GNormPlus
+7803538	7157	p53	GNormPlus
+7803543	4436	hMSH2	GNormPlus|MESH
+7803543	7157	p53	GNormPlus
+7803544	963084	CPT-11	GNormPlus
+7802966	4638	MLCK|myosin light chain kinase	GNormPlus|MESH
+7802966	801	calmodulin	GNormPlus|MESH
+7802966	109624	caldesmon	GNormPlus
+7802966	4900	calmodulin binding protein	GNormPlus
+7802966	79784	myosin	GNormPlus
+7802966	800	caldesmon	GNormPlus
+7802969	24241	Calcitonin gene-related peptide|CGRP	GNormPlus
+7802969	25699	DBH|dopamine beta-hydroxylase	GNormPlus
+7802981	920	CD4	GNormPlus
+7803548	85348	HBc	GNormPlus
+7803555	3630	proinsulin	GNormPlus
+7802985	920	CD4	GNormPlus
+7802988	920	CD4	GNormPlus
+7803358	2936	Glutathione reductase|glutathione reductase	RGD|MESH|GNormPlus
+7803370	3552	IL-1|interleukin-1	GNormPlus
+7803567	112744	ml-1	GNormPlus
+7802995	1803	CD26	GNormPlus
+7803000	9255	p43	GNormPlus
+7803178	7054	TH|tyrosine hydroxylase	MESH|GNormPlus
+7803385	3347	His2	GNormPlus
+7803385	717	CO2	GNormPlus
+7803385	760	carbonic anhydrase II|CAII|Carbonic anhydrase II	GNormPlus
+7803386	760	carbonic anhydrase II|CAII	GNormPlus
+7803583	59330	GER	GNormPlus
+7803185	100337609	corticotropin-releasing hormone	GNormPlus
+7803185	380532	alpha-MSH|alpha-melanophorestimulating hormone	GNormPlus
+7803190	7124	TNF-alpha|tumor necrosis factor alpha	GNormPlus
+7803191	3456	IFN-beta|interferon-beta	GNormPlus
+7803191	4691	C23	GNormPlus
+7803191	79718	C21	GNormPlus
+7803388	801	CaM|calmodulin	GNormPlus|MESH
+7803411	1938	elongation factor-2|EF-2	GNormPlus
+7802809	7124	Tumor necrosis factor	GNormPlus
+7802843	2147	Prothrombin	GNormPlus
+7803230	1070974	t(15,17	GNormPlus
+7803230	928	CD9	GNormPlus
+7803230	968	CD68	GNormPlus
+7803231	596	bcl-2	GNormPlus
+7803241	652070	scFv	GNormPlus
+7802867	117019	eIF-2B	GNormPlus
+7802869	181055	SEM-5	GNormPlus|MESH
+7802869	36497	Grb2|Drk	GNormPlus
+7803243	6007	RhD	GNormPlus
+7803249	2244	fibrinogen	GNormPlus
+7803253	5788	CD45	GNormPlus
+7803253	947	CD34	GNormPlus
+7803262	7040	transforming growth factor-beta|Transforming growth factor-beta|TGF-beta|TGF-beta 1	GNormPlus
+7803266	1437	GM-CSF	GNormPlus
+7803266	2056	erythropoietin|Epo	GNormPlus
+7803266	3552	IL-1|interleukin-1	GNormPlus
+7803266	3565	IL-4	GNormPlus
+7803266	947	CD34	GNormPlus
+7803272	2056	EPO|erythropoietin	GNormPlus
+7803272	7018	transferrin	GNormPlus
+7803274	146	alpha 1|alpha 2- and alpha 1	GNormPlus
+7803277	3569	IL-6	GNormPlus
+7803283	1351	VIII	GNormPlus
+7803283	462	ATIII|antithrombin III	GNormPlus
+7803283	7035	TFPI|tissue factor pathway inhibitor	GNormPlus
+7803285	2147	Thrombin|thrombin	GNormPlus
+7803285	2214	CD16	GNormPlus
+7803285	27087	CD57	GNormPlus
+7803285	4684	CD56	GNormPlus
+7803453	282199	VIaL	GNormPlus|gene2pubmed
+7803070	78996	MRI	GNormPlus
+7803288	9172	M-protein	GNormPlus
+7803293	1378	CD35|complement receptor type 1|Complement receptor type 1|CR1	GNormPlus
+7803293	22815	CR4	GNormPlus
+7803293	6998	CR3	GNormPlus
+7803295	4193	MDM2	GNormPlus|MESH
+7803295	7157	p53|P53	GNormPlus
+7803298	350	beta 2 glycoprotein-I|beta 2GPI|Beta 2 glycoprotein-I	GNormPlus
+7803467	567	beta 2-microglobulin	MESH|GNormPlus
+7803467	7123	tetranectin	GNormPlus|MESH
+7803467	26	diamine oxidase	GNormPlus
+7803469	15526	mortalin	GNormPlus|MESH
+7803469	22060	p53	GNormPlus
+7803469	22350	p81	GNormPlus
+7803475	728	C5a	GNormPlus
+7802922	396453	prolactin|Prolactin	GNormPlus
+7803479	547981	SAMDC|S-adenosylmethionine decarboxylase	GNormPlus
+7803480	117019	eIF-2B|Eukaryotic initiation factor (eIF)-2B	GNormPlus
+7803480	29422	beta-, gamma-, and epsilon-subunits	GNormPlus
+7802925	16196	interleukin 7|IL-7	GNormPlus
+7802927	3383	ICAM-1	GNormPlus
+7802927	3458	IFN gamma	GNormPlus
+7802927	3552	IL-1	GNormPlus
+7802927	6401	ELAM-1	GNormPlus
+7802927	7124	TNF alpha	GNormPlus
+7802927	7412	VCAM-1	GNormPlus
+7802928	3553	interleukin 1 beta	GNormPlus
+7802928	3565	interleukin 4|IL4	GNormPlus
+7802928	7124	TNF alpha	GNormPlus
+7802929	3383	ICAM 1|ICAM-1	GNormPlus
+7802929	3458	IFN gamma	GNormPlus
+7802929	3497	IgE	GNormPlus
+7803088	241	flap	GNormPlus
+7803093	100422792	acetylcholinesterase|AChE	GNormPlus
+7803492	108351137	glyceraldehyde-3-phosphate dehydrogenase	GNormPlus
+7803497	850518	Ste2p	GNormPlus
+7803497	851173	sst2	GNormPlus
+7802936	760	Ca2	GNormPlus
+7803322	1588	Aro	GNormPlus
+7803511	2305	Ins 1	GNormPlus
+7803515	100302324	PKC|Protein kinase C|protein kinase C	GNormPlus
+7804441	590	cholinesterase	GNormPlus
+7803953	2632	GBE	GNormPlus
+7804129	3630	proinsulin|insulin	GNormPlus
+7804133	359816	tRNA(Lys)	GNormPlus
+7804133	444915	HR 5/5	GNormPlus
+7804134	24586	NCAM|neural cell adhesion molecule	GNormPlus
+7804134	428253	neural cell adhesion molecule	GNormPlus
+7804135	590	cholinesterase	GNormPlus
+7804445	1082	CG-beta	GNormPlus
+7804445	3972	LH-beta	GNormPlus
+7804446	6462	SHBG|Sex hormone-binding globulin	MESH|GNormPlus
+7804455	5376	PMP22|peripheral myelin protein-22	GNormPlus|MESH
+7804455	23095	CMT2|CMT2A	GNormPlus
+7804455	2705	connexin 32	GNormPlus
+7804455	4359	CMT1B	GNormPlus
+7804455	7276	TTR|Transthyretin	GNormPlus
+7804455	8731	CMT1C	GNormPlus
+7804456	231	aldose reductase	GNormPlus
+7804136	5914	RAR alpha|all-trans-retinoic acid receptor|RAR	GNormPlus
+7804136	5915	RAR beta	GNormPlus
+7804143	1584	CYP11B1	MESH|GNormPlus
+7804464	3479	IGF-1	GNormPlus
+7804466	12	alpha 1-antichymotrypsin	GNormPlus
+7804466	351	beta-amyloid precursor protein	GNormPlus
+7804469	3630	Insulin|insulin	GNormPlus
+7803760	5894	Raf-1	GNormPlus
+7803761	5594	p42mapk	GNormPlus
+7803761	5595	p44mapk	GNormPlus
+7803761	6194	40S ribosomal protein S6	GNormPlus
+7803761	6198	p70s6k	GNormPlus
+7803762	5594	ERK2	MESH|GNormPlus
+7803762	5595	ERK1	MESH|GNormPlus
+7804166	210582	GM1	GNormPlus
+7804167	15978	IFN-gamma|gamma interferon (IFN-gamma	GNormPlus
+7804167	16193	IL-6|interleukin-6	GNormPlus
+7804167	21926	tumour necrosis factor|TNF	GNormPlus
+7803767	5111	Cyclin|cyclin	GNormPlus
+7803984	4023	LPL|lipoprotein lipase	MESH|GNormPlus
+7803985	25750	MAO-B	GNormPlus
+7803985	29253	MAO|MAO-A|monoamine-oxidase	GNormPlus
+7804235	15978	IFN-gamma	GNormPlus
+7804248	6908	TBP	GNormPlus
+7803791	102990654	IL-2	GNormPlus
+7803791	16183	interleukin-2|Interleukin-2|IL-2	GNormPlus
+7803791	3558	IL-2	GNormPlus
+7803791	3560	IL-2 receptor	GNormPlus
+7803993	5196	PF4	GNormPlus
+7803993	5473	beta TG	GNormPlus
+7803800	2539	glucose-6-phosphate dehydrogenase|Glucose-6 phosphate dehydrogenase|G6PD	GNormPlus
+7803805	7066	c-mpl-ligand	GNormPlus
+7804313	308	placental anticoagulant protein I	MESH|GNormPlus
+7803608	101843376	prolactin|PRL	GNormPlus
+7803819	5435	hRPB14.4	gene2pubmed|GNormPlus
+7803819	856317	RPB6|RPO26	GNormPlus
+7803821	20810	spermidine synthase	gene2pubmed|GNormPlus
+7804020	10278	sin	GNormPlus
+7804310	11425	aCL	GNormPlus
+7804310	11818	beta 2GPI|beta 2 glycoprotein I	GNormPlus
+7804312	3562	interleukin-3|IL-3	GNormPlus
+7803615	101098029	F-10	GNormPlus
+7803619	104974671	phospholipase A2|PLA2	GNormPlus
+7803619	281251	IL-1 beta|interleukin-1 beta	GNormPlus
+7803850	179693	sqt-3	MESH|GNormPlus
+7803855	855897	Hrr25p	GNormPlus|gene2pubmed|gene_interactions
+7804030	510679	ALA-D|delta-aminolevulinic acid dehydratase	GNormPlus
+7804322	462	antithrombin	GNormPlus
+7804326	4637	MLC3nm	GNormPlus
+7804327	108699960	PGE2	GNormPlus
+7803632	920	CD4	GNormPlus
+7803873	7375	USP 4	GNormPlus
+7804355	16183	interleukin-2|IL-2	GNormPlus
+7804355	21803	TGF-beta	GNormPlus
+7804355	21926	tumor necrosis factor-alpha	GNormPlus
+7804359	21877	TK1	GNormPlus
+7804359	57813	TK2	GNormPlus
+7804359	7083	TK1	GNormPlus
+7804360	3558	interleukin-2|IL-2	GNormPlus
+7803884	847	catalase	GNormPlus
+7804369	116562	rIL-2	GNormPlus
+7804369	3558	interleukin-2	GNormPlus
+7804375	54486	Glutathione-S-Transferase	GNormPlus
+7804382	3552	IL-1	GNormPlus
+7804382	3569	IL-6	GNormPlus
+7804383	24835	TNF-a	GNormPlus
+7804383	280943	TNF-alpha	GNormPlus
+7804383	3458	IFN-gamma	GNormPlus
+7804383	3552	IL-1	GNormPlus
+7804383	3569	IL-6	GNormPlus
+7804383	517016	IL-6	GNormPlus
+7804383	7124	TNF-alpha	GNormPlus
+7804384	7039	TGF-alpha	GNormPlus
+7804384	7040	TGF-beta	GNormPlus
+7803649	920	CD4	GNormPlus
+7803901	2187	FAB	GNormPlus
+7803903	25;613	BCR/ABL	GNormPlus
+7804094	13419	DNAse I	GNormPlus
+7804094	56183	NMU	GNormPlus
+7804095	12349	Ca2	GNormPlus
+7804102	102	Kuz	GNormPlus
+7804385	268	AMH	GNormPlus
+7804108	3553	IL-1 beta|interleukin 1 beta	GNormPlus
+7804108	3558	IL-2	GNormPlus
+7803688	18787	PAI-1	GNormPlus
+7803688	24617	rPAI-1	GNormPlus
+7803688	5054	PAI-1	GNormPlus
+7803688	7020	AP2	GNormPlus
+7803688	7023	AP4	GNormPlus
+7803688	91056	AP5	GNormPlus
+7803689	1080919	S-1231	GNormPlus
+7803910	3558	Interleukin-2|IL2	GNormPlus
+7803910	80216	LAK	GNormPlus
+7803922	720	C4A	GNormPlus
+7803922	721	C4B	GNormPlus
+7804112	4879	BNP|brain natriuretic peptide	GNormPlus
+7803697	578	Bak	GNormPlus
+7803923	27087	CD57	GNormPlus
+7803923	3558	interleukin-2	GNormPlus
+7803923	4684	CD56	GNormPlus
+7803928	28909	O17	GNormPlus
+7803928	28930	O12	GNormPlus
+7803928	28933	O18	GNormPlus
+7804122	12515	CD69	GNormPlus
+7804122	969	CD69	GNormPlus
+7804127	966	min-1	GNormPlus
+7804416	4514	cytochrome c oxidase subunit III	GNormPlus
+7803702	21802	TGF alpha	GNormPlus
+7803702	7039	TGF alpha	GNormPlus
+7803702	7124	transforming growth factor alpha	GNormPlus
+7803705	111058	HSP90	GNormPlus
+7803705	12406	HSP47	GNormPlus
+7803705	15481	HSC70	GNormPlus
+7803705	15511	HSP70	GNormPlus
+7803708	29261	thymidylate synthetase	GNormPlus
+7803946	1636	ACE|Angiotensin converting enzyme	GNormPlus
+7804833	24165	adenosine deaminase	GNormPlus
+7804847	25305	Cort	GNormPlus
+7804848	153	beta1 adrenoceptor	GNormPlus|CTD
+7804848	154	beta 2 adrenoceptor|beta2 adrenoceptor	CTD|GNormPlus
+7804848	5972	renin	GNormPlus|CTD|MESH
+7804848	10242	beta2	GNormPlus
+7804848	3779	beta1	GNormPlus
+7805023	3845	K-ras	GNormPlus
+7805023	7157	p53	GNormPlus
+7805027	102228937	Xmrk	GNormPlus
+7805028	7157	p53	GNormPlus
+7805035	3845	K-ras	GNormPlus
+7805035	7157	p53	GNormPlus
+7805037	2120	TEL	GNormPlus|gene2pubmed
+7805037	25	ABL	GNormPlus
+7805238	1906	Endothelin-1|endothelin-1	GNormPlus
+7805242	14940	B10	GNormPlus
+7805043	891	cyclin B1	GNormPlus
+7805043	983	p34CDC2	GNormPlus
+7805243	4353	myeloperoxidase	GNormPlus
+7805243	710	C1 esterase inhibitor|C1 INH	GNormPlus
+7805243	712	C1q	GNormPlus
+7805244	403845	fibronectin	GNormPlus
+7805244	403974	interleukin (IL)-1 beta	GNormPlus
+7805244	480621	vitronectin	GNormPlus
+7805245	100683675	BID	GNormPlus
+7805245	403789	GPIIb	GNormPlus
+7805062	100508689	mucin	GNormPlus
+7805255	1714	CATCH-22	GNormPlus
+7804724	116562	rIL-2	GNormPlus
+7804724	3558	interleukin-2|IL-2	GNormPlus
+7804724	3559	CD25	GNormPlus
+7804727	1387	CBP	GNormPlus
+7804727	5091	PCB	GNormPlus
+7804727	717	CO2	GNormPlus
+7805070	1628	DBP	GNormPlus
+7805070	8991	SBP	GNormPlus
+7805285	18791	Tissue plasminogen activator|tPA	GNormPlus
+7804729	2244	fibrinogen	GNormPlus
+7804730	2147	Thrombin	GNormPlus
+7804730	5327	tissue-type plasminogen activator	GNormPlus
+7804732	2147	thrombin	GNormPlus
+7804733	2147	thrombin	GNormPlus
+7804733	5054	PAI-1	GNormPlus
+7804733	5340	plasmin	GNormPlus
+7804905	1508	cysteine protease|Cysteine protease	GNormPlus
+7805094	3949	LDL-receptor	GNormPlus
+7805098	2526	CD15	GNormPlus
+7805098	290	CD13	GNormPlus
+7805098	3684	CD11b	GNormPlus
+7805098	4353	myeloperoxidase	GNormPlus
+7805098	929	CD14	GNormPlus
+7804740	2147	Thrombin|thrombin	GNormPlus
+7804923	4486	Ron	GNormPlus
+7804508	3350	5HT1A-receptor	GNormPlus
+7804750	183	Angiotensin II|angiotensin II	GNormPlus
+7804752	5972	renin	GNormPlus|MESH
+7804752	183	Angiotensin II|angiotensin II	GNormPlus
+7804752	185	AT1	GNormPlus
+7804752	186	AT2	GNormPlus
+7804754	4306	mineralocorticoid receptor	GNormPlus
+7804515	3350	5HT1A	GNormPlus
+7805140	2187	FAB	GNormPlus
+7805139	183	angiotensin II	GNormPlus
+7805139	1906	ET-1|endothelin-1	GNormPlus
+7805139	1909	ETAR|ETA receptor|ETA	GNormPlus
+7805139	1910	ETB receptor|ETBR|ETB	GNormPlus
+7805147	3492	IgH	GNormPlus
+7805147	6962	TCR beta	GNormPlus
+7804532	3439	IFN-alpha	GNormPlus
+7804532	3458	IFN-gamma|interferon-gamma	GNormPlus
+7804532	3558	IL-2	GNormPlus
+7804532	3565	IL-4	GNormPlus
+7804532	3565;7040	IL-4 and transforming growth factor-beta	GNormPlus
+7804532	3586	IL-10|Interleukin-10|interleukin-10	GNormPlus
+7804532	7124	TNF-alpha|tumor necrosis factor	GNormPlus
+7804950	5972	renin	GNormPlus
+7805161	6936	GCF	GNormPlus
+7804565	22796	LDL-cholesterol|LDL-C	GNormPlus
+7804775	581	Bax	GNormPlus
+7804958	6741	La(SSB)	GNormPlus
+7804972	10178	TNM	GNormPlus
+7805172	213	serum albumin	MESH|GNormPlus
+7804780	10927;54466	spin -1/2	GNormPlus
+7804780	169981;54466	spin 3/2	GNormPlus
+7804792	3630	insulin	GNormPlus
+7804982	5111	PCNA|proliferating cell nuclear antigen	GNormPlus
+7804982	7157	p53	GNormPlus
+7805183	923;9173;292	t1/2(alpha) and t1/2(beta) of 8.1	GNormPlus
+7805188	18669	mdr1	GNormPlus
+7804794	717	CO2	GNormPlus
+7804803	10242	beta 2	GNormPlus
+7805216	3827	bradykinin	GNormPlus
+7805216	5340	Plasmin|plasmin	GNormPlus
+7804809	55599	RNP	GNormPlus
+7804809	6737	SS-A	GNormPlus
+7804809	6741	SS-B	GNormPlus
+7805001	3458	interferon-gamma	GNormPlus
+7805002	3558	lymphokine|interleukin-2	GNormPlus
+7805056	718	C-3	GNormPlus
+7805231	2244	fibrinogen	GNormPlus
+7804667	6717	Sri	GNormPlus
+7804822	7054	TH|tyrosine hydroxylase	MESH|GNormPlus
+7804825	310218	CA1	GNormPlus
+7804828	111343	IL-1	GNormPlus
+7804828	12977	Macrophage colony-stimulating factor(M-CSF|M-CSF	GNormPlus
+7804828	12981	GM-CSF	GNormPlus
+7804828	16176	IL-1 beta|interleukin-1 beta	GNormPlus
+7804828	16193	IL-6	GNormPlus
+7804828	16193;12981	IL-6 and granulocyte-macrophage colony-stimulating factor(GM-CSF	GNormPlus
+7804828	21926	TNF alpha|tumor necrosis factor alpha	GNormPlus
+7805931	920	CD4	GNormPlus
+7805719	3562	IL-3	GNormPlus
+7805719	3565	interleukin-4|IL-4	GNormPlus
+7805719	728	C5a	GNormPlus
+7805727	3383	intercellular adhesion molecule-1|CD54	GNormPlus
+7805727	958	CD40	GNormPlus
+7805727	959	CD40 ligand	GNormPlus
+7805728	11102	p14	GNormPlus
+7805728	6962	TCR|CD3-T cell receptor	GNormPlus
+7805730	14061	F1 and F2	GNormPlus
+7805577	1158	M-CK	gene2pubmed|GNormPlus
+7805577	1152	B-CK	GNormPlus
+7805578	1152	CK|B-CK	GNormPlus
+7805579	1152	B-CK	GNormPlus
+7805739	695	Bruton's tyrosine kinase|Btk	GNormPlus|MESH
+7805740	12504	CD4	GNormPlus
+7805740	15978	interferon-gamma	GNormPlus
+7805740	57314	Th1	GNormPlus
+7805740	668478	IgG2a	GNormPlus
+7805741	2209	Fc gamma receptor	GNormPlus
+7805741	3458	IFN-gamma|interferon-gamma	GNormPlus
+7805949	3630	insulin	GNormPlus
+7805949	760	Ca2	GNormPlus
+7805957	2645	glucokinase	GNormPlus|MESH
+7805957	2819	glycerophosphate dehydrogenase	GNormPlus
+7805957	6514	glut-2	GNormPlus
+7805957	675	FAD	GNormPlus
+7805437	7124	TNFa|tumor necrosis factor alpha	GNormPlus
+7805442	2064	C-erbB-2|HER-2/neu	GNormPlus
+7805581	5091	pyruvate carboxylase	GNormPlus
+7805582	717	CO2	GNormPlus
+7805584	4129	MAOB	GNormPlus
+7805584	706	PTBR	GNormPlus
+7805743	105243590	IgG1	GNormPlus
+7805743	16016	IgG2b	GNormPlus
+7805743	380795	IgG3	GNormPlus
+7805743	668478	IgG2a	GNormPlus
+7805749	5657	PR3|c-ANCA|proteinase 3	MESH|GNormPlus
+7805753	3439	IFN-alpha	GNormPlus
+7805753	3458	IFN-gamma	GNormPlus
+7805753	3553	IL-1 beta	GNormPlus
+7805753	3558	IL-2	GNormPlus
+7805753	3562	IL-3	GNormPlus
+7805753	3565	interleukin-4|IL-4	GNormPlus
+7805753	3567	IL-5	GNormPlus
+7805753	3569	IL-6	GNormPlus
+7805753	3576	Interleukin-8|interleukin-8 (IL)-8|IL-8	GNormPlus
+7805753	7124	TNF-alpha|tumor necrosis factor-alpha	GNormPlus
+7805754	8718	DR3	GNormPlus
+7805755	1146783	Y-(18-36	GNormPlus
+7805755	280872	GTP-binding protein	GNormPlus
+7805755	281512	substance P	GNormPlus
+7805755	504216	neuropeptide Y|Neuropeptide Y	GNormPlus
+7805764	24173	alpha 1B-adrenoceptor|alpha 1b-adrenoceptor	GNormPlus
+7805765	24408	NMDAR1	GNormPlus
+7806000	7076	TIMP|tissue inhibitor of metalloproteinase	GNormPlus
+7805455	1437	GM-CSF	GNormPlus
+7805455	3552	IL-1 alpha	GNormPlus
+7805455	3569	IL-6	GNormPlus
+7805615	28	ABO	GNormPlus
+7805622	280829	insulin	GNormPlus
+7805766	2357	fMLP	GNormPlus
+7805770	493772	C-type natriuretic peptide	GNormPlus
+7805774	1128	Hm1	GNormPlus
+7805774	1129	Hm2|muscarinic M2 receptor	GNormPlus
+7805774	1131	Hm3	GNormPlus
+7805774	1132	Hm4	GNormPlus
+7805774	1133	Hm5	GNormPlus
+7805775	717	CO2	GNormPlus
+7805980	2244	fibrinogen	GNormPlus
+7805465	2099	ER|estrogen receptor	GNormPlus
+7805784	2752	Glutamine synthetase	GNormPlus|MESH
+7805785	310218	CA1	GNormPlus
+7805785	54231	Ca2	GNormPlus
+7805786	28913	L-2	GNormPlus
+7805786	51056	L-AP3	GNormPlus
+7805789	29339	SAP|Serum amyloid P component|serum amyloid P component	GNormPlus
+7805793	101864991	CD4	GNormPlus
+7805643	25569	TRH|thyrotropin-releasing hormone	GNormPlus
+7805799	16175	IL-1 alpha|Interleukin-1 alpha	GNormPlus
+7805799	16176	IL-1 beta|interleukin-1 beta	GNormPlus
+7805799	16193	IL-6|interleukin-6	GNormPlus
+7805799	21926	TNF alpha|tumor necrosis factor alpha	GNormPlus
+7805486	23113	Parc	GNormPlus
+7805649	5310	PC1	GNormPlus
+7805649	5443	beta MSH|CLIP, alpha MSH|CLIP and beta MSH|POMC|Proopiomelanocortin	GNormPlus
+7805649	8535	PC2	GNormPlus
+7805650	2353	c-fos	GNormPlus
+7805650	3725	c-jun	GNormPlus
+7805653	1392	CRH	GNormPlus
+7805656	1392	CRH	GNormPlus
+7805829	18263	ODC	GNormPlus
+7805829	852834	cim3|CIM3	GNormPlus
+7805829	853712	cim5|CIM5	GNormPlus
+7805831	712	C1q	GNormPlus
+7805832	29725	rBAT	GNormPlus|MESH
+7805839	5045	furin	MESH|GNormPlus
+7805839	692741	Vitellogenin|vitellogenin	GNormPlus|gene2pubmed
+7805667	966	min-1	GNormPlus
+7805844	514	F0F1-ATPase	GNormPlus
+7805846	1889	ECE-1	gene2pubmed|GNormPlus|MESH
+7805846	281133	ECE-1	gene2pubmed|GNormPlus
+7805846	281137	endothelin-1	GNormPlus
+7805847	683	BST-1	gene2pubmed|GNormPlus
+7805847	12182	BST-1	GNormPlus
+7805847	12494	CD38	GNormPlus
+7805847	952	CD38	GNormPlus
+7805848	851019	Cdc25	GNormPlus
+7805852	5464	protein phosphatase 1|PP1	GNormPlus
+7805852	5524	PP2A	GNormPlus
+7805855	1938	EF-2	GNormPlus
+7805515	91544	Soci	GNormPlus
+7805518	2908	glucocorticoid receptors|GCR	GNormPlus
+7805520	16181	IL-1ra|interleukin-1 receptor antagonist	GNormPlus
+7805670	966	min-1	GNormPlus
+7805863	1020	CDK5|Cdk5	MESH|GNormPlus
+7805863	36727	CDK5|Cdk5	GNormPlus|gene2pubmed|MESH
+7805865	6227	8.2 kDa differentiation factor	GNormPlus|gene2pubmed
+7805868	18548	SPC3	gene2pubmed|GNormPlus
+7805868	16334	proinsulin	GNormPlus
+7805868	18549	SPC2	GNormPlus
+7805868	20683	Sp1	GNormPlus
+7805868	5126	SPC2	GNormPlus
+7805875	24954	insulin receptor	GNormPlus
+7805875	3643	insulin receptor	GNormPlus
+7805877	1756	dystrophin	GNormPlus|MESH
+7805877	7402	utrophin	MESH|GNormPlus
+7805877	801	calmodulin	GNormPlus|MESH
+7805877	87	alpha-actinin	GNormPlus
+7805375	76967	TA3	GNormPlus
+7805378	3250	hPR	GNormPlus
+7805525	1628	DBP	GNormPlus
+7805525	8991	SBP	GNormPlus
+7805531	7535	SRK	GNormPlus
+7805532	6120	retinal pigment epithelial (RPE)|RPE	GNormPlus
+7805878	1519	Cathepsin O|cathepsin O	GNormPlus|MESH|gene2pubmed
+7805878	100009334	OC2	GNormPlus
+7805878	1514	cathepsin L	GNormPlus
+7805878	1520	cathepsin S	GNormPlus
+7805878	9480	OC2	GNormPlus
+7805880	3383	ICAM-1	GNormPlus
+7805886	855275	Rna1p|Rna1	GNormPlus
+7805892	3700	PK-120	GNormPlus|gene2pubmed
+7805892	3818	plasma kallikrein|PK	GNormPlus
+7805379	683667	Sri	GNormPlus
+7805905	1155	hCG > 2,000 mIU/mL	GNormPlus
+7805549	4609	c-myc	GNormPlus
+7805549	4893	N-ras	GNormPlus
+7805907	111334	CD-1	GNormPlus
+7805915	23731	hCG < 2	GNormPlus
+7805394	4313	MMP-2|matrix metalloproteinase-2	MESH|GNormPlus
+7805396	24717	rhodopsin|Rhodopsin	GNormPlus
+7805397	100873157	transforming growth factor (TGF)-beta 1	GNormPlus
+7805397	3458	IFN-gamma	GNormPlus
+7805397	3553	IL-1 beta	GNormPlus
+7805397	373958	IL-2	GNormPlus
+7805397	396398	IFN-alpha	GNormPlus
+7805397	554219	IFN-beta	GNormPlus
+7805397	7124	TNF)-alpha|tumor necrosis factor	GNormPlus
+7805554	7157	p53	GNormPlus
+7805556	7124	tumor necrosis factor	GNormPlus
+7805557	4830	nm23	GNormPlus
+7805919	3342	hCG	GNormPlus
+7805923	100128998	tissue plasminogen activator	GNormPlus
+7805558	542898	MT|metallothionein	GNormPlus
+7805560	26	diamine oxidase|DAO	GNormPlus
+7805561	5443	POMC	GNormPlus
+7806576	851803	rad9	GNormPlus
+7806576	856484	ste12	GNormPlus
+7806582	1499	beta-Catenin|beta-catenin	GNormPlus|gene2pubmed|MESH
+7806582	999	E-cadherin	GNormPlus|gene2pubmed
+7806582	31151	beta-catenin	GNormPlus
+7806582	37386	E-cadherin	GNormPlus
+7806585	154968	N-acetyl-beta-glucosaminidase	GNormPlus
+7806585	24694	PTH	GNormPlus
+7806585	25697	cathepsin L	GNormPlus
+7806585	64529	cathepsin B	GNormPlus
+7806748	2056	erythropoietin	GNormPlus
+7806411	57379	aid	GNormPlus
+7806592	24835	rTNF alpha	GNormPlus
+7806592	3458	interferon-gamma	GNormPlus
+7806592	7124	TNF alpha|tumor necrosis factor-alpha	GNormPlus
+7806184	50865	HBP	GNormPlus
+7806420	2247	basic fibroblast growth factor|bFGF	GNormPlus
+7806773	100858738	PNMT|phenylethanolamine-N-methyltransferase	GNormPlus
+7806773	396256	calcitonin	GNormPlus
+7806207	336	apo A II	MESH|GNormPlus
+7806207	335	apo A I, B100, C I, C II, C III	GNormPlus
+7806207	4018	apolipoprotein A	GNormPlus
+7806429	3558	IL-2	GNormPlus
+7806429	3565	IL-4	GNormPlus
+7806429	3586	IL-10	GNormPlus
+7806429	51497	TH-1 and DTH	GNormPlus
+7806431	109740	H1 and H2 receptors	GNormPlus
+7806431	111364	H2 and H1 receptors	GNormPlus
+7806433	16183	IL-2	GNormPlus
+7806433	3558	interleukin-2|IL-2	GNormPlus
+7806614	21838	Thy-1.2	GNormPlus
+7806615	78996	STIR-MRI|MRI	GNormPlus
+7805313	2548	acid maltase	GNormPlus
+7806209	5212	Vit	GNormPlus
+7806210	3077	HFE	GNormPlus
+7806210	3106	HLA-B	GNormPlus
+7806210	3136	HLA-H	GNormPlus
+7806216	14784	Grb2	gene2pubmed|GNormPlus|MESH
+7806216	2885	GRB2	MESH|gene2pubmed|GNormPlus
+7806216	1956	epidermal growth factor receptor	GNormPlus
+7806220	15284	Hlx	gene2pubmed|MESH|GNormPlus
+7806220	3142	HLX1	gene2pubmed|GNormPlus|MESH
+7806221	5680	PSG11	GNormPlus
+7806435	3558	lymphokine|IL-2	GNormPlus
+7806448	966	min-1	GNormPlus
+7806016	217212	peptide YY|Peptide YY	GNormPlus
+7806027	3630	Insulin	GNormPlus
+7806028	3630	insulin	GNormPlus
+7806029	3630	insulin	GNormPlus
+7806223	8228	DXS1283E|GS2	gene2pubmed|MESH|GNormPlus
+7806223	3730	KAL1	GNormPlus
+7806223	412	STS|steroid sulfatase	GNormPlus
+7806225	110138	Ccs1	gene2pubmed|GNormPlus
+7806226	852053	SCA1	GNormPlus
+7806229	10101	CFD1	GNormPlus
+7806231	2192	FBLN1|Fibulin-1|fibulin-1	gene2pubmed|GNormPlus
+7806463	51192	C3-2	GNormPlus
+7806465	2033	P300	GNormPlus
+7806638	373965	caldesmon	GNormPlus
+7806638	79784	myosin	GNormPlus
+7806638	800	Caldesmon|caldesmon	GNormPlus
+7806031	7032	spasmolytic polypeptide	GNormPlus|MESH
+7806031	7190	hSP	GNormPlus
+7806036	5154	platelet-derived growth factor (PDGF) A|PDGF-A	GNormPlus
+7806036	5155	PDGF-B	GNormPlus
+7806036	7040	transforming growth factor (TGF) beta 1|TGF-beta 1	GNormPlus
+7806234	24811	Tap-1	MESH|GNormPlus
+7806234	24812	Tap-2	MESH|GNormPlus
+7806234	294269	RT1.Da	GNormPlus
+7806236	1843	CL100	gene2pubmed|GNormPlus
+7806236	1844	PAC-1	gene2pubmed|GNormPlus
+7806236	441554	hVH-4	gene2pubmed|GNormPlus
+7806236	26191	protein-tyrosine phosphatase|PTPase	GNormPlus
+7806236	28407	hVH-3	GNormPlus
+7806240	3000	GUC2D|retGC	GNormPlus|gene2pubmed
+7806244	2741	GLRA1|glycine receptor alpha 1	GNormPlus|gene2pubmed
+7806249	11657	serum albumin	GNormPlus
+7806249	16017	IgG1	GNormPlus
+7806037	3126	DR4	GNormPlus
+7806037	8718	DR3	GNormPlus
+7806045	25721	aspartate aminotransferase	GNormPlus
+7806250	4586	Leb	GNormPlus
+7806255	2208	CD23	GNormPlus
+7806255	3569	IL-6|interleukin-6	GNormPlus
+7806480	286896	SPL	GNormPlus
+7806485	1280	COL2A1	GNormPlus
+7806054	7525	c-yes	GNormPlus
+7806257	16193	IL-6|interleukin-6	GNormPlus
+7806259	1378	CR1	GNormPlus
+7806264	3672	VLA-1	gene2pubmed|GNormPlus
+7806264	3458	IFN-gamma	GNormPlus
+7806264	3559	IL-2R	GNormPlus
+7806264	3684	CD11b	GNormPlus
+7806264	920	CD4	GNormPlus
+7806264	925	CD8	GNormPlus
+7806264	940	CD28	GNormPlus
+7806488	25353	osteopontin|OPN	GNormPlus
+7806493	100009250	IL-1 alpha|Interleukin (IL)-1 alpha	GNormPlus
+7806496	2994	GPB|GYPB	GNormPlus|gene2pubmed
+7806496	2993	GYPA	GNormPlus
+7806496	2993;2994;2996	glycophorins A, B, and E	GNormPlus
+7806496	2996	GYPE	GNormPlus
+7806067	1950	EGF|Epidermal growth factor	GNormPlus
+7806067	25313	EGF	GNormPlus
+7806067	85476	EGF1	GNormPlus
+7806271	717969	Mamu-DPB1	GNormPlus|gene2pubmed
+7806271	717992	Mamu-DPA1 and -DPB1|Mamu-DPA1 and 13|Mamu-DPA1	GNormPlus
+7806274	5698	LMP2	GNormPlus
+7806275	16904	Lmet1	gene2pubmed|GNormPlus
+7806275	50908	serine protease	GNormPlus
+7806277	3113	HLA-DPA1	GNormPlus
+7806278	30663	Rag1|Recombination activating gene 1	GNormPlus|ZFIN
+7806279	3123	DRB1|HLA-DRB1	GNormPlus
+7806280	3565	interleukin 4	GNormPlus|gene2pubmed
+7806282	2534	Fyn	GNormPlus
+7806282	3932	Lck	GNormPlus
+7806282	920	CD4	GNormPlus
+7806282	925	CD8	GNormPlus
+7806283	111526	Tcra V4	GNormPlus
+7806286	722	C4BPA	GNormPlus|gene2pubmed
+7806286	724	C4BPAL2	gene2pubmed|GNormPlus
+7806287	19264	CD45|Ly5	GNormPlus|gene2pubmed
+7806292	1942	B61	GNormPlus
+7806294	3123	DRB1	GNormPlus
+7806294	3126	DR4	GNormPlus
+7806296	3115	HLA-DPB1	gene2pubmed|GNormPlus
+7806297	3133	HLA-E	GNormPlus
+7806305	2539	Glucose-6-phosphate dehydrogenase	GNormPlus
+7806501	1934	beta 3-integrins, and 3|beta 3	GNormPlus
+7806501	2187	Fab	GNormPlus
+7806501	3685	integrin alpha	GNormPlus
+7806501	3685;3690	integrin alpha v beta 3	GNormPlus
+7806502	5900	RGDS	GNormPlus
+7806502	6850	p72syk	GNormPlus
+7806675	6936	GCF	GNormPlus
+7806079	3497	IgE	GNormPlus
+7806089	2056	erythropoietin|Epo	GNormPlus
+7806298	3495	immunoglobulin heavy chain|IGHC	GNormPlus
+7806298	3497	IGHE	GNormPlus
+7806298	3498	IGHEP1	GNormPlus
+7806299	3123	DRB1	GNormPlus
+7806299	3126	DR4|DRB4	GNormPlus
+7806299	8718	DR3	GNormPlus
+7806300	110151	H2-Ke5	gene2pubmed|GNormPlus
+7806300	14977	H2-Ke4	gene2pubmed|GNormPlus
+7806300	20182	RXRB|Rxrb	gene2pubmed|GNormPlus
+7806300	20181	Rxra|RXRA	GNormPlus
+7806300	20183	Rxrg|RXRG	GNormPlus
+7806300	6257	RXRB	GNormPlus
+7806301	28605	TCRBV13S2	GNormPlus
+7806301	28614	TCRBV5S1	GNormPlus
+7806301	6957	TCRB	GNormPlus
+7806507	16184	CD25	GNormPlus
+7806507	26119	activation receptor homology sequence 1|ARH-1	GNormPlus
+7806507	3558	IL-2	GNormPlus
+7806507	916	CD3 epsilon	GNormPlus
+7806507	919	CD3 zeta	GNormPlus
+7806518	3576	IL-8|interleukin-8	GNormPlus
+7806344	3622608	PA103	GNormPlus
+7806537	397857	Raf-1	GNormPlus
+7806537	492305	p21	GNormPlus
+7806543	22139	TTR	GNormPlus|gene2pubmed
+7806543	331535	Thyroxine-binding globulin|thyroxine-binding globulin	GNormPlus
+7806544	3416	IDE|insulin degrading enzyme|insulin-degrading enzyme	GNormPlus|MESH
+7806544	40248	IDE	GNormPlus
+7806692	3350	5-HT1A	GNormPlus
+7806698	3630	insulin	GNormPlus
+7806165	3630	Insulin	GNormPlus
+7806348	7124	tumor necrosis factor alpha	GNormPlus
+7806351	3075	factor H	MESH|GNormPlus
+7806142	3082	hepatocyte growth factor|HGF	GNormPlus
+7806143	3458	IFN-gamma|interferon gamma	GNormPlus
+7806143	3558	interleukin (IL)-2	GNormPlus
+7806143	3567	IL-5	GNormPlus
+7806143	3569	IL-6	GNormPlus
+7806143	4155	major basic protein|MBP	GNormPlus
+7806143	7040	transforming growth factor beta|TGF-beta	GNormPlus
+7806355	4312	fibroblast collagenase	GNormPlus
+7806559	4233	c-met	GNormPlus
+7806561	4839	NOP2|Nop2p|p120	GNormPlus|MESH
+7806561	855664	NOP2|Nop2p	GNormPlus|MESH
+7806561	852307	GAL10	GNormPlus
+7806561	854229	TCM1	GNormPlus
+7806564	22134	TGN38	GNormPlus|MESH
+7806568	2697	Cx43	MESH|GNormPlus
+7806149	1057	cell-1|cell-1 and 46	GNormPlus
+7806149	3897	L-1	GNormPlus
+7806150	25697	cathepsin L	GNormPlus|MESH
+7806150	64529	cathepsin B	GNormPlus
+7806154	12981	granulocyte macrophage-colony stimulating factor	GNormPlus
+7806154	15978	interferon-gamma	GNormPlus
+7806154	16183	interleukin-2	GNormPlus
+7806154	21926	TNF alpha|TNF-alpha|tumor necrosis factor-alpha	GNormPlus
+7806368	3552	IL-1 alpha|interleukin-1 alpha	GNormPlus
+7806368	3553	IL-1|IL-1 beta	GNormPlus
+7806368	3557	IL-1ra	GNormPlus
+7806368	3565	IL-4	GNormPlus
+7806368	3569	IL-6	GNormPlus
+7806368	3576	IL-8	GNormPlus
+7806368	3586	IL-10	GNormPlus
+7806368	4049	TNF-beta	GNormPlus
+7806368	7124	TNF-alpha|tumor necrosis factor alpha	GNormPlus
+7807131	6256	retinoid X receptor	GNormPlus
+7807138	5816	parvalbumin	GNormPlus
+7806937	213	serum albumin	MESH|GNormPlus
+7806940	1950	EGF|epidermal growth factor	GNormPlus
+7806940	1956	epidermal growth factor (EGF) receptor	GNormPlus
+7807141	11423	acetylcholinesterase|AChE	GNormPlus
+7807281	1158	CKMM|CK-MM	GNormPlus
+7807281	5204	MM1	GNormPlus
+7807285	100616444	envelope glycoprotein	GNormPlus
+7806947	2056	erythropoietin	GNormPlus
+7806947	3458	interferon-gamma	GNormPlus
+7806947	3558	interleukin-2	GNormPlus
+7806960	407	Carr	GNormPlus
+7807470	3458	Interferon-gamma|IFN-gamma|interferon-gamma	GNormPlus
+7807476	5798	IA2	GNormPlus
+7806966	25081	apoA-I	GNormPlus
+7806967	25330	hormone-sensitive lipase|HSL	GNormPlus
+7806967	3991	Hormone-sensitive lipase|HSL	GNormPlus
+7806967	81668	growth hormone	GNormPlus
+7806968	24539	Lipoprotein lipase|LPL|lipoprotein lipase	GNormPlus
+7807499	1636	ACE	GNormPlus
+7807502	1628	DBP	GNormPlus
+7807502	8991	SBP	GNormPlus
+7806974	718	C-3	GNormPlus
+7806975	110204	GM3	GNormPlus
+7806975	12879	cpk	GNormPlus
+7806975	22234	Glucosylceramide synthase|glucosylceramide synthase	GNormPlus
+7806976	100136735	vitellogenin	GNormPlus
+7806992	7399	US  2	GNormPlus
+7806994	5498	PPO	GNormPlus
+7807182	1800	MDP|gamma-IFN + MDP	GNormPlus
+7807182	7124	TNF-alpha|tumor necrosis factor-alpha	GNormPlus
+7806982	335	apolipoprotein A-I|apoA-I	GNormPlus
+7806982	336	ApoA-II	GNormPlus
+7806982	348	ApoE	GNormPlus
+7806982	4018	Lp A	GNormPlus
+7806982	53369	HDL3	GNormPlus
+7807000	110279	B cell receptor for antigen (BCR)|BCR	GNormPlus
+7807000	12330	calnexin	GNormPlus
+7807000	12518	Ig alpha	GNormPlus
+7807000	15985	Ig beta	GNormPlus
+7807000	17329	mIg	GNormPlus
+7807025	925	CD8	GNormPlus
+7807193	5243	p-glycoprotein	GNormPlus
+7807193	8714	multidrug resistance associated protein	GNormPlus
+7807495	1628	DBP	GNormPlus
+7807495	8991	SBP	GNormPlus
+7807015	1493	CTLA-4	gene_interactions|HPRD|gene2pubmed|GNormPlus
+7807015	940	CD28	GNormPlus|gene2pubmed
+7807015	5296	p85	GNormPlus
+7807021	16189	IL-4|Interleukin 4|interleukin 4	gene2pubmed|GNormPlus
+7806857	2838	Bob	GNormPlus
+7806866	9172	M-protein	GNormPlus
+7807054	760	Ca2	GNormPlus
+7807057	108697959	ROMK1	GNormPlus
+7807059	3009	hH1	GNormPlus
+7807222	28299;6983	V1/V2	GNormPlus
+7807368	717	CO2	GNormPlus
+7807226	759	CA1	GNormPlus
+7807373	64206	tryptophan 2,3-dioxygenase	GNormPlus
+7807379	12575	p21	GNormPlus
+7807379	644914	p21	GNormPlus
+7807380	24241	calcitonin gene-related peptide|CGRP	GNormPlus
+7806903	23426	Grip	GNormPlus
+7806909	7124;3552	TNF and IL-1	GNormPlus
+7806911	2	alpha-2-macroglobulin	GNormPlus
+7806920	201161	p30	GNormPlus
+7807414	32340	rdgB|retinal degeneration B	GNormPlus|gene2pubmed|MESH
+7806923	24472	hsp72	GNormPlus
+7806923	3303	hsp72	GNormPlus
+7807122	111979	EL-4	GNormPlus
+7807967	100750225	PCA1	GNormPlus
+7807967	3562	interleukin-3	GNormPlus
+7807967	3569	interleukin-6	GNormPlus
+7807967	4311	CD10	GNormPlus
+7807967	4684	CD56	GNormPlus
+7807967	952	CD38	GNormPlus
+7808220	14580	glial fibrillary acidic protein|GFAP	GNormPlus
+7808223	18049	NGF	GNormPlus
+7808223	4803	Nerve growth factor|NGF	GNormPlus
+7808224	25707	CNTF|Ciliary neurotrophic factor	GNormPlus
+7808224	310738	nerve growth factor	GNormPlus
+7808224	313173	CNTFR alpha	GNormPlus
+7808227	29423	GAP-43	GNormPlus
+7808440	4159	MC3	GNormPlus
+7808440	5443	alpha-MSH	GNormPlus
+7808446	4128	MAO-A	GNormPlus
+7808446	4128;4129	MAO-A and -B	GNormPlus
+7808446	4129	MAO-B	GNormPlus
+7807592	14580	glial fibrillary acidic protein|GFAP	GNormPlus
+7808233	1816	dopamine D5 receptor	GNormPlus
+7808233	29484	D1 and D2	GNormPlus
+7808234	2752	Glutamate decarboxylase|glutamate decarboxylase	GNormPlus|MESH
+7807973	1509	cathepsin D	GNormPlus
+7807973	2187	Fab	GNormPlus
+7807973	6401	endothelial leukocyte adhesion molecule-1	GNormPlus
+7807973	7412	Vascular cell adhesion molecule-1	GNormPlus
+7808014	7157	p53	GNormPlus
+7808242	966	min-1	GNormPlus
+7808454	12715	M-CK	GNormPlus
+7808456	1159	uMtCK	gene2pubmed|GNormPlus
+7808456	1160	sMtCK|sarcomere-specific MtCK	gene2pubmed|GNormPlus
+7808456	1152	BCK	GNormPlus
+7808456	1158	muscle CK|MCK	GNormPlus
+7808456	29593	uMtCK	GNormPlus
+7808457	1152	B-CK	GNormPlus
+7807610	1636	DCP	GNormPlus
+7807613	3976	LiF	GNormPlus
+7807997	1437	GM-CSF	GNormPlus
+7807997	3458	IFN-gamma	GNormPlus
+7807997	3553	IL-1|IL-1 beta	GNormPlus
+7807997	3558	IL-2	GNormPlus
+7807997	3562	IL-3	GNormPlus
+7807997	3565	IL-4	GNormPlus
+7807997	3569	IL-6	GNormPlus
+7807997	3574	IL-7	GNormPlus
+7807997	3586	IL-10	GNormPlus
+7807997	7124	TNF-alpha	GNormPlus
+7807997	920	CD4	GNormPlus
+7807997	925	CD8	GNormPlus
+7808459	1158	M-CK	GNormPlus
+7808465	12715	M-CK	GNormPlus
+7808466	3098	hexokinase	MESH|GNormPlus
+7807619	3630	Insulin|insulin	GNormPlus
+7807619	7018	transferrin	GNormPlus
+7807628	5212	Vit|VIT	GNormPlus
+7807998	4609	c-myc	GNormPlus
+7808004	25	BCR-ABL|ABL	GNormPlus
+7808005	5243	MDR1	MESH|GNormPlus
+7808005	8714	multidrug resistance-associated protein|MRP	GNormPlus
+7808010	3684	CD11b	GNormPlus
+7808010	6957	TCR beta	GNormPlus
+7808010	920	CD4	GNormPlus
+7808010	925	CD8	GNormPlus
+7807635	717	CO2	GNormPlus
+7807636	717	CO2	GNormPlus
+7808012	3535	IgL	GNormPlus
+7808017	10966	RAR	GNormPlus
+7808017	1381	CRABP	GNormPlus
+7808017	5371	PML	GNormPlus
+7808017	6256	RXR	GNormPlus
+7808017	84106	PML-RAR	GNormPlus
+7808019	4051	cytochrome P-450 and lipoxygenase	GNormPlus
+7808023	3439	IFN alpha	GNormPlus
+7808024	10903	CRA	GNormPlus
+7808027	3479	IGF-I	GNormPlus
+7808027	3479;3481	insulin-like growth factors I and II	GNormPlus
+7808027	7039	tgf-alpha	GNormPlus
+7808033	5914	RAR-alpha	GNormPlus
+7808033	6256	RXR-alpha	GNormPlus
+7808290	2353	c-Fos	GNormPlus
+7808290	3725	c-Jun	GNormPlus
+7807703	5187	per 1	GNormPlus
+7808058	26284	era	GNormPlus
+7808344	3048	MetHb|methemoglobin	MESH|GNormPlus
+7808345	210	ALA-D|delta-aminolevulinic acid dehydratase	GNormPlus|MESH
+7807508	1636	ACE|Angiotensin converting enzyme	GNormPlus
+7807508	183	Angiotensin II	GNormPlus
+7807510	1636	ACE	GNormPlus
+7807512	1636	ACE|angiotensin converting enzyme	GNormPlus
+7808054	3630	insulin	GNormPlus
+7808352	2875	GPT	GNormPlus
+7807513	1636	ACE	GNormPlus
+7807749	19012	mPAP	GNormPlus
+7807750	25464	intercellular adhesion molecule-1|ICAM-1	GNormPlus
+7807750	309684	CD18	GNormPlus
+7808073	1080	CFTR	GNormPlus
+7808367	5837	Myophosphorylase|myophosphorylase	GNormPlus
+7808369	351	A beta	GNormPlus
+7807525	13047	CDP	GNormPlus
+7807537	173078	HSF|heat-shock factor	GNormPlus
+7807543	3308	HSP70	GNormPlus
+7807763	6271	S-100	GNormPlus
+7808383	123228	DEN-1	GNormPlus
+7807546	103694540	ZFY	GNormPlus
+7807546	22764	ZFX	GNormPlus
+7807546	367832	ZFX	GNormPlus
+7807546	7543	ZFX	GNormPlus
+7807546	7544	ZFY	GNormPlus
+7807768	2796	LH-RH	GNormPlus
+7807769	7139	cmH2	GNormPlus
+7807549	5265	alpha 1-antitrypsin and serpin|alpha 1-antitrypsin	GNormPlus
+7807549	9622	kallikrein	GNormPlus
+7807554	3772082	c-fos	GNormPlus
+7807770	1906	ET-1|endothelin-1	GNormPlus
+7807773	20309	IL-8	GNormPlus
+7807773	2214	CD16	GNormPlus
+7807773	3576	IL-8|interleukin-8	GNormPlus
+7807773	925	CD8	GNormPlus
+7807775	1401	CRP|C-reactive protein	GNormPlus
+7808402	102577633	Patatin|patatin	GNormPlus|MESH
+7807578	17196	Shiverer	gene2pubmed|GNormPlus
+7807578	18858	Trembler	gene2pubmed|GNormPlus
+7808216	77593	GCAP-7	GNormPlus|gene2pubmed
+7808219	116547	P-8	GNormPlus
+7808219	24408	NR-1	GNormPlus
+7808219	24409	NR-2A	GNormPlus
+7808219	24410	NR-2B	GNormPlus
+7808219	24411	NR-2C	GNormPlus
+7808219	2902	NR-1	GNormPlus
+7808422	509933	rhodopsin	GNormPlus
+7808422	6010	Rhodopsin	GNormPlus
+7808432	3359	5-HT3 A	GNormPlus
+7807582	4137	PHF-tau|helical filament (PHF) tau	GNormPlus
+7807584	2571	glutamic acid decarboxylase|GAD	GNormPlus
+7807584	9118	66 kDa neurofilament protein	GNormPlus
+7807585	1950	EGF|Epidermal growth factor	GNormPlus
+7807585	2670	glial acidic fibrillary protein|GFAP	GNormPlus
+7807585	4803	NGF|nerve growth factor	GNormPlus
+7807585	6855	synaptophysin	GNormPlus
+7807588	24898	DA transporter	GNormPlus
+7809179	1270	CNTF|Ciliary neurotrophic factor	GNormPlus
+7809179	1271	CNTF receptor	GNormPlus
+7809179	3569	interleukin-6	GNormPlus
+7809179	3572	gp130	GNormPlus
+7809179	3976	leukemia inhibitory factor (LIF)|LIF	GNormPlus
+7808838	100294653	ET-1|Endothelin-1|endothelin-1	GNormPlus
+7809022	3845	K-ras	GNormPlus
+7809029	652070	scFv	GNormPlus
+7809197	26284	era	GNormPlus
+7808841	5741	PTH	GNormPlus
+7808844	26284	era	GNormPlus
+7809208	4068	sap	GNormPlus
+7809049	6363	ELC	GNormPlus
+7809049	79784	Myosin|myosin	GNormPlus
+7809057	25	v-Abl|abl	GNormPlus
+7809057	25;613	BCR/ABL	GNormPlus
+7809057	3805	kir	GNormPlus
+7809059	54231	Ca2	GNormPlus
+7809227	241	flap|Flap	GNormPlus
+7809229	23471	TRAM	GNormPlus
+7808669	2244	Fibrinogen	GNormPlus
+7808669	462	antithrombin III|AT III	GNormPlus
+7809064	3308	hsp70	GNormPlus
+7809069	245920	IP-10	RGD|GNormPlus|gene2pubmed
+7809069	301300	p53	GNormPlus
+7809069	353229	mob-1|Mob-1	GNormPlus
+7808676	717	CO2	GNormPlus
+7808895	25987	Tsk	GNormPlus
+7809072	8115	TCL1	gene2pubmed|GNormPlus|MESH
+7809075	2353	c-Fos	GNormPlus
+7809075	3726	JunB	GNormPlus
+7809075	5595	p44MAPK	GNormPlus
+7809270	23471	TRAM	GNormPlus
+7809078	21333	substance P	GNormPlus
+7809080	2475	RAPT1	GNormPlus|gene2pubmed|MESH
+7809080	2284	FKBP12	GNormPlus
+7809080	2287	rapamycin-binding protein	GNormPlus
+7809081	760	Ca2	GNormPlus
+7808696	56925	Latexin|latexin	GNormPlus
+7808698	310218	CA1	GNormPlus
+7808698	54232	CA3	GNormPlus
+7808701	3558	interleukin-2	GNormPlus
+7808701	3569	IL-6|interleukin-6	GNormPlus
+7808932	338	apolipoprotein B|Apo B	GNormPlus
+7808932	6521	CH-C	GNormPlus
+7808934	9615	Gda	GNormPlus
+7809084	5340	plasmin	GNormPlus|MESH
+7809090	2885	Grb2	MESH|HPRD|gene_interactions|BioGRID|gene2pubmed|GNormPlus
+7809090	7409	Vav	GNormPlus|MESH|HPRD|gene2pubmed|BioGRID
+7809093	15401	Hox-1.4|Hoxa-4	gene2pubmed|GNormPlus|MESH
+7808935	9615	Gda	GNormPlus
+7808945	920	CD4	GNormPlus
+7809095	3124	HLA-DR2b	GNormPlus
+7809095	919	CD3 zeta chain	GNormPlus
+7809097	225642	gastrin-releasing peptide	GNormPlus
+7809097	30052	Pen	GNormPlus
+7809097	329093	Cpa6	GNormPlus
+7809103	10923	PC4|positive cofactor 4	HPRD|GNormPlus|gene2pubmed
+7809104	36240	engrailed	GNormPlus|gene2pubmed
+7808563	9463	Pick	GNormPlus
+7808591	6998	CR3/43	GNormPlus
+7808730	1131	M3 muscarinic receptor	GNormPlus
+7808951	2056	erythropoietin|Epo	GNormPlus
+7808958	80150	L-asparaginase	GNormPlus
+7809107	851567	RAD57	GNormPlus
+7809107	855471	RAD50	GNormPlus
+7809107	856831	RAD51	GNormPlus
+7809109	3553	IL-1 beta	GNormPlus
+7809109	3557	IL-1ra	GNormPlus
+7809109	3569	IL-6	GNormPlus
+7809109	7124	tumor necrosis factor alpha	GNormPlus
+7809109	728378	beta-actin	GNormPlus
+7809109	915	CD3-delta	GNormPlus
+7809111	3845	K-ras 4B	GNormPlus
+7809114	5077	Pax-3	GNormPlus
+7808740	3882	K-32	GNormPlus
+7808971	1201	JNCL	GNormPlus
+7809116	22324	vav	MESH|GNormPlus
+7809118	760	Ca2	GNormPlus
+7809119	811	calreticulin	GNormPlus|MESH
+7809120	718	C3b, CVF forms with factor B and factor D	GNormPlus|MESH
+7809120	629	C3/C5 convertase	GNormPlus
+7809121	6329	hSkM1	GNormPlus
+7808765	5265	alpha-1-antitrypsin	GNormPlus
+7808977	4683	Nijmegen breakage syndrome|NBS	GNormPlus
+7809124	695	BTK|Bruton tyrosine kinase	GNormPlus|gene2pubmed|MESH
+7809128	13555	E2F1	GNormPlus|MESH
+7809128	21781	DP1	MESH|GNormPlus
+7809128	399489	E2F1	MESH|GNormPlus
+7809128	7027	DP1	MESH|GNormPlus
+7809128	1869	E2F1	GNormPlus
+7809128	364838	DP1	GNormPlus
+7809131	1485	CTAG	GNormPlus
+7809131	283459	GATC	GNormPlus
+7808583	5621	prion protein|PrP	GNormPlus
+7808590	310218	CA1	GNormPlus
+7808767	10036;4683	leukocyte function-associated antigen and p150,95	GNormPlus
+7808767	3553	interleukin-1 beta	GNormPlus
+7808767	3683	LFA-1	GNormPlus
+7808767	3689	Mac-1|CD18	GNormPlus
+7808768	1511	cathepsin G	GNormPlus|MESH
+7808768	1668	HNP-3|HNP-1 + 2 and HNP-3	GNormPlus
+7808768	574045	HNP-1	GNormPlus
+7808770	287469	rnu	GNormPlus
+7809134	11689	5-lipoxygenase	gene2pubmed|GNormPlus|RGD
+7809135	12501	CD3	GNormPlus
+7809135	12504	CD4	GNormPlus
+7809135	12505	Pgp-1	GNormPlus
+7809135	14130	Fc gamma RII	GNormPlus
+7809135	14131	Fc gamma RIII	GNormPlus
+7809135	15130	beta 2	GNormPlus
+7809135	21838	Thy-1	GNormPlus
+7809137	4908	neurotrophin 3	GNormPlus
+7809137	4916	TrkC|trkC	GNormPlus
+7809147	654512	ftz|fushi tarazu	GNormPlus|gene2pubmed
+7809147	40834	ftz|fushi tarazu	GNormPlus
+7808598	314322	Fos|proto-oncogene c-fos	GNormPlus
+7808601	2244	fibrinogen	GNormPlus
+7808601	462	antithrombin III	GNormPlus
+7808601	5345	alpha 2-antiplasmin	GNormPlus
+7808787	116562	IL-2	GNormPlus
+7808792	4830	Nm23|nm23	MESH|GNormPlus
+7809150	100505382	alpha-L-iduronidase	GNormPlus
+7809150	3425	alpha-L-iduronidase	GNormPlus
+7809153	480	ATP1AL2	GNormPlus|gene2pubmed
+7809153	24212	Na+,K(+)-ATPase alpha subunit	GNormPlus
+7808607	5456	brain; and 4	GNormPlus
+7808793	7157	p53	GNormPlus
+7809009	24379	GAD-67	GNormPlus
+7809009	24380	GAD-65	GNormPlus
+7809011	24677	pancreatic polypeptide	GNormPlus
+7809011	24797	somatostatin	GNormPlus
+7809013	25298	CCK	GNormPlus
+7809156	3565	interleukin 4	GNormPlus
+7809156	4609	c-Myc	GNormPlus
+7809156	596	Bcl-2	GNormPlus
+7809156	7157	p53	GNormPlus
+7809159	42289	Cdi	GNormPlus
+7809162	48	iron responsive-element binding protein|IRE-BP	GNormPlus
+7809163	19064	pancreatic polypeptide	GNormPlus
+7809166	7066	TPO|Thrombopoietin|thrombopoietin	gene2pubmed|GNormPlus
+7809166	16187	interleukin 3	GNormPlus
+7809166	17480	c-mpl	GNormPlus
+7809166	2056	EPO|erythropoietin	GNormPlus
+7809018	988	CDC < 5	GNormPlus
+7809021	111463	H2T	GNormPlus
+7809021	11657	serum albumin	GNormPlus
+7809021	2922	Bombesin	GNormPlus
+7808828	966	min/1	GNormPlus
+7809592	3559	IL-2R	GNormPlus
+7809597	32762	TAFII40|dTAFII40	MESH|GNormPlus
+7809597	6872	TAFII250	GNormPlus|gene2pubmed
+7809597	6908	TBP|TFIID|transcription factor IID	GNormPlus|MESH
+7809597	7157	p53	HPRD|GNormPlus|gene2pubmed
+7809597	37476	TATA binding protein	GNormPlus
+7809597	40134	TAFII60|dTAFII60	GNormPlus
+7809600	1029	p16|MTS1	GNormPlus
+7809611	7372	Orotidine 5'-phosphate decarboxylase	GNormPlus|MESH
+7809612	1958	Zif268	GNormPlus
+7809612	5451	Oct-1	GNormPlus
+7809618	4905	NSF	GNormPlus
+7810092	5187	per 1	GNormPlus
+7809408	5252	PCL	GNormPlus
+7809627	854090	HAL2	gene2pubmed|GNormPlus
+7809627	852648	nucleotidase	GNormPlus
+7809628	966	min-1	GNormPlus
+7809629	6890	TAP1	GNormPlus|MESH
+7809629	6891	TAP2	GNormPlus|MESH
+7809630	14175	FGF-4|Fgf4	gene2pubmed|GNormPlus
+7809631	94201	CDK4|cyclin-dependent kinase 4	GNormPlus|MESH
+7809631	24577	Myc	GNormPlus
+7809631	25163	p16INK4	GNormPlus
+7809631	25244	E1a	GNormPlus
+7809903	729	FH-2 and C-6	GNormPlus
+7809905	380795	IgG3	GNormPlus
+7809905	668478	IgG2a	GNormPlus
+7810101	3630	Insulin|insulin	GNormPlus
+7809420	590	cholinesterase	GNormPlus
+7809636	1636	ACE	GNormPlus
+7809906	14961	I-A beta and I-E	GNormPlus|gene2pubmed
+7809906	110674	Idd-1	GNormPlus
+7809907	12504	CD4	GNormPlus
+7809908	920	CD4	GNormPlus
+7809910	3502	IgG3	GNormPlus
+7810125	56654	cab	GNormPlus
+7809432	7200	Thyrotropin Releasing Hormone	GNormPlus
+7809924	25721	aspartate aminotransferase	GNormPlus
+7809928	7056	TM|thrombomodulin	GNormPlus|MESH
+7809928	5054	plasminogen activator inhibitor 1|PAI-1	GNormPlus
+7809928	5327	t-PA|tissue-type plasminogen activator	GNormPlus
+7809928	7450	von Willebrand factor|vWF	GNormPlus
+7809437	6462	sex hormone binding globulin	GNormPlus
+7809663	5091	PCB	GNormPlus
+7809949	301	lipocortin 1	GNormPlus|MESH
+7809950	155971	gp120	GNormPlus
+7810152	3064	IT 15	GNormPlus
+7809954	1909	ETA	GNormPlus
+7809954	581	Bax	GNormPlus
+7809460	920	CD4+/CD8+ ratio (1.1	GNormPlus
+7809460	925	CD8	GNormPlus
+7809491	64127	Blau	GNormPlus
+7809497	1636	ACE	GNormPlus
+7809497	567	beta 2-microglobulin	GNormPlus
+7809989	112483	SAT2	GNormPlus
+7809501	1636	ACE	GNormPlus
+7809503	5925	RB1	GNormPlus
+7809505	4613	N-myc	GNormPlus
+7809505	4914	TRK-A	GNormPlus
+7809506	440926	p13	GNormPlus
+7809506	7157	p53	GNormPlus
+7809506	7490	WT-1	GNormPlus
+7809774	3630	insulin	GNormPlus
+7809792	590	cholinesterase	GNormPlus
+7810011	57824	HB-1 and 40	GNormPlus
+7810022	2244	fibrinogen	GNormPlus
+7809817	8737	rip	GNormPlus
+7809527	5972	renin	GNormPlus
+7809822	10382	alpha v beta 5|beta 5	GNormPlus
+7809827	4069	lysozyme	GNormPlus
+7809834	5741	PTH|parathyroid hormone	GNormPlus
+7809834	5744	PTHrP|PTH-related protein	GNormPlus
+7809835	403474	catalase	GNormPlus
+7809835	483028	xanthine dehydrogenase	GNormPlus
+7809839	4055	CD18	GNormPlus
+7809839	7124	tumor necrosis factor	GNormPlus
+7809841	100009455	intercellular adhesion molecule-1|ICAM-1	GNormPlus
+7810071	6462	ABP|SHBG|sex hormone-binding globulin	MESH|GNormPlus
+7810070	1589	Steroid 21-hydroxylase	GNormPlus
+7810070	51478	17 beta-hydroxysteroid dehydrogenase	GNormPlus
+7809375	7018	Transferrin	GNormPlus|MESH
+7809384	3553	IL-1 beta|interleukin 1-beta	GNormPlus
+7809384	7124	TNF alpha|tumor necrosis factor alpha	GNormPlus
+7810074	3817	hKLK2	GNormPlus
+7809574	29240	DNA polymerase beta	GNormPlus
+7810085	7450	von Willebrand factor	GNormPlus
+7810749	24498	IL-6	GNormPlus
+7810749	24835	TNF-alpha|tumor necrosis factor-alpha|Tumor necrosis factor-alpha	GNormPlus
+7810754	117263	S-4	GNormPlus
+7810754	24221	vasopressin	GNormPlus
+7810657	1950	epidermal growth factor	GNormPlus
+7810657	3552	IL-1|interleukin-1	GNormPlus
+7810657	3553	IL-1 beta	GNormPlus
+7810657	3554	IL-1R|IL-1 receptor	GNormPlus
+7810659	847	CAT|catalase	MESH|GNormPlus
+7810659	26503	aspartate aminotransferase|AST	GNormPlus
+7810659	7124	tumor necrosis factor|TNF	GNormPlus
+7810659	7124;26503	TNF and AST	GNormPlus
+7810660	6476	Sucrase isomaltase|sucrase isomaltase	GNormPlus
+7810663	24609	ornithine decarboxylase	GNormPlus
+7810663	25298	CCK|cholecystokinin	GNormPlus
+7810758	25298	Cholecystokinin|CCK|cholecystokinin	GNormPlus
+7810760	717	CO2	GNormPlus
+7810664	24443	histidine decarboxylase|HDC	GNormPlus
+7810664	24494	Interleukin-1 beta|IL-1 beta	GNormPlus
+7810664	25320	Gastrin|gastrin	GNormPlus
+7810667	3383	intercellular adhesion molecule-1|ICAM-1	GNormPlus
+7810667	3553	IL-1 beta	GNormPlus
+7810667	3576	Interleukin-8|IL-8	GNormPlus
+7810667	3689	CD18	GNormPlus
+7810667	6402	L-selectin	GNormPlus
+7810763	9173	t1/2 = 93|t1/2 = 29|t1/2 = 65	GNormPlus
+7810671	2335	fibronectin	GNormPlus
+7810671	24773	Surfactant protein A|surfactant protein A|SP-A	GNormPlus
+7810675	24773	Surfactant protein A|surfactant protein A|SP-A	GNormPlus
+7810675	24835	TNF-alpha	GNormPlus
+7810675	25712	interferon-gamma	GNormPlus
+7810675	3458;3552;3569	interleukins 1 alpha, 1 beta, and 6, and interferon-gamma	GNormPlus
+7810675	653509	SP-A	GNormPlus
+7810675	7124	TNF-alpha|tumor necrosis factor-alpha	GNormPlus
+7810769	2922	bombesin|GRP|Bombesin|gastrin-releasing peptide|BN	GNormPlus
+7810769	885	CCK	GNormPlus
+7810772	24602	Atrial natriuretic peptide|atrial natriuretic peptide	GNormPlus
+7810360	1636	ACE|angiotensin-converting enzyme	GNormPlus
+7810560	2006	SVAS	GNormPlus
+7810677	24827	transforming growth factor-alpha|TGF-alpha|Transforming growth factor-alpha	GNormPlus
+7810679	100009390	acetylcholinesterase	GNormPlus
+7810679	100338759	Cholinesterase|cholinesterase	GNormPlus
+7810683	6347	monocyte chemoattractant protein-1	GNormPlus
+7810683	728	C5a	GNormPlus
+7810378	717	CO2	GNormPlus
+7810565	2691	GHRH	GNormPlus
+7810569	2558	GABRA5	GNormPlus
+7810569	2562	GABRB3	GNormPlus
+7810569	4948	D15S12	GNormPlus
+7810774	24221	vasopressin	GNormPlus
+7810775	24221	VP|vasopressin	GNormPlus
+7810396	102657198	SCC	GNormPlus
+7810579	4692	PWCR|Prader-Willi chromosome region	GNormPlus
+7810585	1815	DRD4|dopamine D4 receptor	MESH|GNormPlus
+7810586	1814	DRD3	GNormPlus|MESH
+7810690	24179	Angiotensin II|ANG II	GNormPlus
+7810691	25021	CD11b	GNormPlus
+7810691	309684	CD18	GNormPlus
+7810777	610169	C-type natriuretic peptide|CNP	GNormPlus
+7810404	292	T-2	GNormPlus
+7810590	348	apolipoprotein E|Apolipoprotein E, type epsilon 4 allele (ApoE epsilon 4|ApoE	GNormPlus
+7810592	551	antidiuretic hormone|Antidiuretic hormone|ADH	GNormPlus
+7810695	24179	angiotensin II|ANG II	GNormPlus
+7810695	24715	renin	GNormPlus
+7810174	1565	cytochrome P4502D6|CYP2D6	GNormPlus
+7810595	2147	thrombin	GNormPlus
+7810699	24249	calbindin D9k	GNormPlus
+7810699	25279	25-hydroxyvitamin D3-24-hydroxylase	GNormPlus
+7810700	24715	renin	GNormPlus
+7810701	21809	TGF-beta 3	GNormPlus
+7810701	59086	TGF-beta|TGF-beta 1	GNormPlus
+7810701	81809	TGF-beta 2	GNormPlus
+7810421	4070	gp50	GNormPlus
+7810604	2357	FMLP	GNormPlus
+7810609	477928	Ca2	GNormPlus
+7810200	2006	elastin	MESH|GNormPlus
+7810442	100144442	F-2	GNormPlus
+7810610	5335	PLC-gamma 1|phospholipase C-gamma 1	GNormPlus
+7810613	100355731	Dystrophin|dystrophin	GNormPlus
+7810707	100009156	CA II	GNormPlus
+7810707	100009226	CA IV	GNormPlus
+7810231	551	vasopressin	GNormPlus
+7810236	7421	VDR	GNormPlus
+7810457	7432	VIP	GNormPlus
+7810463	8650	numb	GNormPlus
+7810622	24482	insulin-like growth factor I|IGF-I	GNormPlus
+7810622	25295	osteocalcin	GNormPlus
+7810622	25718	IGF-IR|IGF-I receptor	GNormPlus
+7810623	24179	angiotensin II	GNormPlus
+7810623	24180	AT1A	GNormPlus
+7810623	81638	angiotensin II type 1 receptor|AT1B	GNormPlus
+7810625	5972	renin	MESH|GNormPlus
+7810625	1906	Endothelin-1|Endothelin (ET)-1	GNormPlus
+7810625	5617	prolactin	GNormPlus
+7810631	24539	LPL|lipoprotein lipase	GNormPlus
+7810720	108348108	heat shock protein 70|HSP 70	GNormPlus
+7810726	100009270	endothelin-1	GNormPlus
+7810726	100009477	ET-receptor subtype B|ETB	GNormPlus
+7810726	100339381	PCNA|proliferating cell nuclear antigen	GNormPlus
+7810727	100294531	tropoelastin	GNormPlus
+7810727	101111152	Elastin|elastin	GNormPlus
+7810270	3458	interferon-gamma	GNormPlus
+7810270	3552	interleukin-1 and interleukin-1	GNormPlus
+7810273	3552;7124	interleukin-1, tumor necrosis factor	GNormPlus
+7810273	3569	interleukin-6	GNormPlus
+7810273	3576	interleukin-8	GNormPlus
+7810273	3586	interleukin-10	GNormPlus
+7810274	3569	IL-6|interleukin-6	GNormPlus
+7810274	3576	Interleukin-8|IL-8|interleukin-8	GNormPlus
+7810274	7124	tumour necrosis factor|TNF	GNormPlus
+7810633	966	min-1	GNormPlus
+7810637	966	min-1	GNormPlus
+7810729	1906	endothelin-1	GNormPlus
+7810730	183	angiotensin II	GNormPlus
+7810730	5972	renin	GNormPlus
+7810294	12307	calbindin D-28k	GNormPlus
+7810294	19293	parvalbumin	GNormPlus
+7810295	1392	corticotropin-releasing hormone	GNormPlus
+7810295	5443	beta-endorphin|met-enkephalin	GNormPlus
+7810296	64362	desmin	GNormPlus
+7810520	3105;3106	HLA-A, -B and -DR	GNormPlus
+7810640	5972	Renin|renin	MESH|GNormPlus
+7810642	25351	GLUT-2	GNormPlus
+7810643	24539	LPL|lipoprotein lipase	GNormPlus
+7810643	25675	HMG-CoA) reductase	GNormPlus
+7810643	50671	fatty acid synthase|FAS	GNormPlus
+7810734	609986	myeloperoxidase	GNormPlus
+7810654	24547	MBP|myelin basic protein	GNormPlus
+7810654	24827	transforming growth factor-alpha|TGF-alpha	GNormPlus
+7810653	108348113	EGF|Epidermal growth factor	GNormPlus
+7810327	1113	Chromogranin A	MESH|GNormPlus
+7810329	1113	CGA|chromogranin A	MESH|GNormPlus
+7810329	1906	endothelin-1	GNormPlus
+7810532	2056	erythropoietin	GNormPlus
+7810534	24221	vasopressin|AVP	GNormPlus
+7811341	25298	CCK	GNormPlus
+7811546	920	CD4	GNormPlus
+7811548	3569	IL-6|interleukin 6	GNormPlus
+7811548	3570	IL-6 receptors|IL-6R|IL-6R alpha	GNormPlus
+7811548	3572	gp130|IL-6R beta	GNormPlus
+7811562	100009588	PAI-1	GNormPlus
+7810962	6271	S-100	GNormPlus
+7811156	399543	VWF	GNormPlus
+7811156	7450	von Willebrand factor|Von Willebrand factor|VWF	GNormPlus
+7811368	1351	VIII	GNormPlus
+7811369	9129	RP18	GNormPlus
+7811566	5327	tissue-type plasminogen activator	GNormPlus
+7811569	415796	bean	GNormPlus
+7811385	13645	epidermal growth factor	GNormPlus
+7811385	15234	HGF	GNormPlus
+7811385	16000	insulin-like growth factor I|IGF-I	GNormPlus
+7811385	17295	HGF receptor|c-met	GNormPlus
+7811385	20683	SP1	GNormPlus
+7811387	291671	mtHSP70	gene2pubmed|GNormPlus
+7811387	24468	HSC70	GNormPlus
+7811387	25617	BiP	GNormPlus
+7811387	3313	PBP74	GNormPlus
+7811387	853503	SSC1p	GNormPlus
+7811189	5177	pregnancy-induced hypertension|PIH	GNormPlus
+7811406	7124	tumour necrosis factor|TNF	GNormPlus
+7811408	1437	CSF	GNormPlus
+7811422	4763	Neurofibromatosis type 1|neurofibromatosis type 1|NF1	GNormPlus
+7811436	183	angiotensin II|AII	GNormPlus
+7810797	81818	Vimentin|vimentin	GNormPlus
+7810806	3502	IgG3	GNormPlus
+7811207	1423	P1 or WR|P1 and WR	GNormPlus
+7811438	338	apo-B	GNormPlus
+7811438	966	min/1	GNormPlus
+7811440	7018	transferrin	GNormPlus
+7810812	185	at 1.81	GNormPlus
+7810818	6717	Sri	GNormPlus
+7811221	2908	glucocorticoid receptor	GNormPlus
+7811224	57733	CBG	GNormPlus
+7811224	6462	SHBG	GNormPlus
+7811224	6906	TBG	GNormPlus
+7811224	920	CD4	GNormPlus
+7811448	4397	MS 1 and g3	GNormPlus
+7811453	123228	DEN-1	GNormPlus
+7811466	25350	SP-D|pulmonary surfactant protein D|surfactant protein D	GNormPlus
+7811065	7693072	umuC	GNormPlus
+7811225	551	Vasopressin|vasopressin	GNormPlus
+7811230	24207	apo CIII	GNormPlus|gene2pubmed|RGD
+7811230	25081	apoAI	GNormPlus
+7811230	25081;24207	apolipoprotein AI and CIII	GNormPlus
+7811231	12981	GM-CSF	GNormPlus|gene2pubmed
+7811231	1437	GM-CSF	GNormPlus
+7811231	20683	Sp1	GNormPlus
+7811231	28881;23545	A1, A2, B	GNormPlus
+7811231	4790	NF-kappa B	GNormPlus
+7811231	6667	Sp1	GNormPlus
+7811232	2736	THP-1	GNormPlus
+7811232	5979	ret	GNormPlus
+7811235	396512	proto-oncogene c-fos	GNormPlus
+7811237	213	albumin	GNormPlus
+7811237	2187	Fab	GNormPlus
+7811237	5333	phospholipase C-delta 1|PLC-delta 1	GNormPlus
+7811467	24482	IGF-1|insulin-like growth factor-1	GNormPlus
+7811468	5029	P2u	GNormPlus
+7811473	653509	SP-A|SP-A1|pulmonary surfactant protein A	GNormPlus|MESH
+7811473	729238	SP-A2	MESH|GNormPlus
+7811473	51151	1A1	GNormPlus
+7811474	100009044	Surfactant protein A|surfactant protein A|SP-A	GNormPlus
+7811243	4306	mineralocorticoid receptor	GNormPlus
+7811244	7432	VIP	GNormPlus
+7811252	3156	HMG-CoA reductase	GNormPlus
+7811254	25108	vasopressin V2 receptor	GNormPlus
+7810882	1270	CNTF|ciliary neurotrophic factor	gene_interactions|gene2pubmed|GNormPlus|BioGRID|HPRD
+7810882	25707	CNTF	GNormPlus
+7810882	4827	gp130	GNormPlus
+7811260	1551	CYP3A7	MESH|GNormPlus|gene2pubmed
+7811260	1577	CYP3A5	gene2pubmed|GNormPlus
+7811260	1576	CYP3A4	GNormPlus
+7811262	4313	MMP2	MESH|GNormPlus
+7811262	351	A beta	GNormPlus
+7811264	171039	Rabphilin-3A	GNormPlus
+7811264	25531	Rab3A	GNormPlus
+7811265	5695	proteasome subunit (Z)	HPRD|gene2pubmed|GNormPlus
+7811265	5699	MECL-1	GNormPlus
+7811270	2170	Heart fatty acid binding protein|H-FABP	GNormPlus
+7811270	3725	c-jun	GNormPlus
+7811274	81743	PDE2|cGSPDE|cyclic GMP Stimulated Phosphodiesterase|cyclic GMP stimulated phosphodiesterase	GNormPlus|gene2pubmed|RGD
+7811274	281971	cGSPDE	GNormPlus
+7810900	27241	C-18	GNormPlus
+7810904	5091	PCB	GNormPlus
+7811087	717	CO2	GNormPlus
+7811087	728505	SW2	GNormPlus
+7811088	717	CO2	GNormPlus
+7811094	26959	HBP1	GNormPlus
+7811094	5621	Prp	GNormPlus
+7811277	9230	H-YPT3	gene2pubmed|GNormPlus
+7811277	5861	rab1A|YPT1	GNormPlus
+7811277	81876	rab1B	GNormPlus
+7811278	24516	AP1	GNormPlus
+7811278	24790	SP1	GNormPlus
+7811278	3726	AP1	GNormPlus
+7811278	6755	somatostatin receptor 5	GNormPlus
+7811278	7020	AP2	GNormPlus
+7811278	79451	AP2	GNormPlus
+7811279	3643	insulin receptor	GNormPlus
+7811281	16153	IL-10|interleukin-10	GNormPlus|gene2pubmed
+7811282	419953	ACE|angiotensin converting enzyme	gene2pubmed|GNormPlus
+7811282	11421	ACE|angiotensin converting enzyme	GNormPlus
+7811282	1636	ACE	GNormPlus
+7811286	650	BMP-2	GNormPlus|HPRD|gene_interactions|gene2pubmed
+7811286	652	BMP-4	gene_interactions|gene2pubmed|GNormPlus|HPRD
+7811286	7040	TGF-beta	GNormPlus
+7811291	7299	Tyrosinase|tyrosinase	MESH|GNormPlus
+7811291	4763	Neurofibromatosis type 1|neurofibromin|NF1	GNormPlus
+7811292	7124	TNF)-alpha|tumor necrosis factor|Tumor necrosis factor alpha	GNormPlus
+7811293	5451	Oct-1	MESH|GNormPlus
+7811293	5452	Oct-2	MESH|GNormPlus
+7811293	853724	Oct1.2|Oct-1	GNormPlus
+7811293	855828	GAL4	GNormPlus
+7810948	2520	gastrin	GNormPlus
+7810967	24148	Tom	GNormPlus
+7811304	4353	myeloperoxidase|MPO	GNormPlus
+7811320	3845	K-ras	GNormPlus
+7811537	920	CD4	GNormPlus
+7811537	925	CD8	GNormPlus
+7811538	920	CD4	GNormPlus
+7811539	71	ACTG	GNormPlus
+7811539	920	CD4	GNormPlus
+7811540	71	ACTG	GNormPlus
+7811325	20468888	CRP|cAMP receptor protein	GNormPlus
+7811541	71	ACTG	GNormPlus
+7811541	920	CD4	GNormPlus
+7811542	920	CD4	GNormPlus
+7811543	920	CD4	GNormPlus
+7811709	847	catalase	GNormPlus
+7811713	1435	colony stimulating factor-1|CSF-1	GNormPlus
+7811716	335	apo A-I	MESH|GNormPlus
+7811716	3931	LCAT|lecithin:cholesterol acyltransferase	MESH|GNormPlus
+7811716	336	apo A-II	GNormPlus
+7811716	53369	HDL3	GNormPlus
+7811716	57338	HDL2	GNormPlus
+7811970	106444749	napin	MESH|GNormPlus
+7811972	824985	MYA3	gene2pubmed|GNormPlus
+7811972	834412	MYA2	GNormPlus|gene2pubmed
+7811972	821534	ATM1	GNormPlus
+7811972	829456	Myosin|myosin	GNormPlus
+7811972	835516	ATM2	GNormPlus
+7811972	838053	PCR1	GNormPlus
+7811972	838333	MYA1	GNormPlus
+7811972	843191	PCR11	GNormPlus
+7812166	105243590	IgG1	GNormPlus
+7812166	16189	IL-4	GNormPlus
+7812168	3497	IGHE	GNormPlus
+7812168	3498	IGHEP1	GNormPlus
+7812168	3499	IGHEP2	GNormPlus
+7812172	6741	SS-B	GNormPlus
+7812364	16183	interleukin-2|IL-2	GNormPlus
+7812380	7939	Lap	GNormPlus
+7812485	5371	PML	GNormPlus
+7811727	1423	P1 and P2	GNormPlus
+7811727	2147	thrombin	GNormPlus
+7811729	282604	adrenodoxin reductase	GNormPlus|gene2pubmed
+7811729	104968582	cytochrome c	GNormPlus
+7811729	505554	neuraminidase	GNormPlus
+7811730	266717	rK9	GNormPlus
+7811730	300250	rK1	GNormPlus
+7811730	450225	rK10	GNormPlus
+7811733	231	aldose reductase	GNormPlus
+7811733	24192	aldose reductase|AR|Aldose reductase	GNormPlus
+7811740	246	15-lipoxygenase	GNormPlus
+7811745	4023	LPL|lipoprotein lipase	MESH|GNormPlus
+7811745	7841	glucosidase I	GNormPlus
+7811990	6693	CD43	GNormPlus
+7811991	12229	Btk	GNormPlus
+7811991	16187	interleukin-3|IL-3	GNormPlus
+7811991	16428	Itk|Tsk	GNormPlus
+7811991	20416	Shc	GNormPlus
+7811991	21682	tec|Tec	GNormPlus
+7812181	2922	bombesin|GRP|gastrin-releasing peptide	GNormPlus
+7812182	17494186	BRLF1	GNormPlus|MESH
+7812182	1423	P1 and P2 c-myc	GNormPlus
+7812182	4609	c-myc	GNormPlus
+7811747	53947	Gb3|alpha 1-->4 galactosyltransferase	GNormPlus
+7811747	84557	Lc3	GNormPlus
+7811764	142	Poly(ADP-ribose) polymerase	GNormPlus
+7811995	2357	fMLP	GNormPlus
+7811995	4057	neutrophil lactoferrin	GNormPlus
+7811995	7124	TNF-alpha|tumor necrosis factor-alpha	GNormPlus
+7811997	1401	C-reactive protein|CRP	GNormPlus|MESH
+7811997	3439	IFN alpha	GNormPlus
+7811997	3552	interleukin (IL)-1 alpha	GNormPlus
+7811997	7124	TNF alpha|tumor necrosis factor|TNF	GNormPlus
+7811997	7132	p55	GNormPlus
+7811998	567	beta 2-microglobulin|beta 2M	MESH|GNormPlus
+7811998	952	CD38	GNormPlus
+7812002	17494192	EBNA-2	GNormPlus
+7812002	17494204	LMP-1	GNormPlus
+7812002	4609	c-myc	GNormPlus
+7812002	596	bcl-2	GNormPlus
+7812002	7157	p53	GNormPlus
+7812002	920	CD4	GNormPlus
+7812002	925	CD8	GNormPlus
+7812002	9260	LMP-1	GNormPlus
+7812017	3558	Interleukin-2	GNormPlus
+7812018	2539	Glucose-6-phosphate dehydrogenase	GNormPlus
+7812192	4609	c-myc	GNormPlus
+7812194	861	AML1	MESH|GNormPlus
+7812194	862	ETO|MTG8|myeloid translocation gene on 8	GNormPlus|MESH
+7812194	12394	AML1	GNormPlus
+7812194	76400	pebp2	GNormPlus
+7812196	5917	RARS	GNormPlus
+7812199	10903	CRA	GNormPlus
+7812207	3502	IgG3|IgG 1, 2, 3 and 4	GNormPlus
+7812210	567	beta-2 microglobulin	MESH|GNormPlus
+7812458	5621	prion protein|PrP-c|PRNP|PrP	GNormPlus
+7812041	379785	p34cdc2	GNormPlus
+7812041	394328	cyclin	GNormPlus
+7812041	397743	cyclin B2	GNormPlus
+7812045	396172	cyclin A	GNormPlus
+7812045	426117	cyclin E	GNormPlus
+7812211	1401	C-reactive protein	GNormPlus
+7812211	567	beta 2-microglobulin	GNormPlus
+7812218	24953	glucagon receptor	GNormPlus
+7812461	5621	PRNP|PrP|prion protein	MESH|GNormPlus
+7812462	19122	PrP|Prion protein	GNormPlus|MESH
+7811802	847	Catalase	MESH|GNormPlus
+7812046	4905	NSF|NEM-sensitive fusion protein	GNormPlus
+7812049	850504	act1|ACT1	GNormPlus
+7812075	632	osteocalcin	GNormPlus|MESH
+7811646	5775	EEG and MEG	GNormPlus
+7812245	5544	g-1	GNormPlus
+7811636	29619	PC3	GNormPlus|gene2pubmed|MESH
+7811636	310738	NGF|nerve growth factor	GNormPlus
+7811636	7832	PC3	GNormPlus
+7811638	31442	snf	gene2pubmed|GNormPlus
+7811638	3772180	Sex-lethal|Sxl	GNormPlus|BioGRID|gene2pubmed
+7811640	13172	Dbx	gene2pubmed|GNormPlus
+7811643	54623	PD2	GNormPlus
+7812014	25	BCR-ABL	GNormPlus
+7812093	3779;10242	beta 1 and 2	GNormPlus
+7812093	7040	TGF-beta 1 and 2|transforming growth factor-beta|TGF-beta|TGF-beta 1	GNormPlus
+7811647	5775	MEG	GNormPlus
+7812101	100616444	env	GNormPlus
+7812101	10959	p24	GNormPlus
+7812101	155971	env	GNormPlus
+7812102	920	CD4	GNormPlus
+7811922	2147	serine protease	GNormPlus
+7811922	2152	TF|Tissue Factor	GNormPlus
+7811922	2159	factor Xa	GNormPlus
+7811934	4926	NuMA	GNormPlus
+7812109	220972	MIR	GNormPlus
+7812284	3106	HLA B	GNormPlus
+7812285	1401	C-reactive protein	GNormPlus
+7812285	5319	phospholipase A2	GNormPlus
+7812286	10927	Spin	GNormPlus
+7811935	28545888	cytochrome c	GNormPlus
+7812119	213	albumin	MESH|GNormPlus
+7812119	7018	transferrin	MESH|GNormPlus
+7812125	717	CO2	GNormPlus
+7811947	2035	Protein 4.1|protein 4.1	GNormPlus
+7811947	2475	FRAP	GNormPlus
+7811947	2995	glycophorin C	GNormPlus
+7812137	760	Ca2	GNormPlus
+7812137	79784	myosin	GNormPlus
+7812141	351	A beta	GNormPlus
+7812160	7070	Thy1	GNormPlus
+7812160	8349	H-2b	GNormPlus
+7812162	325	SAP|serum amyloid P component	GNormPlus|MESH
+7812163	3565	IL-4	GNormPlus
+7812163	3586	IL-10	GNormPlus
+7812163	914	CD2	GNormPlus
+7812163	920	CD4	GNormPlus
+7812163	925	CD8	GNormPlus
+7812165	920	CD4	GNormPlus
+7812344	3164	Hormone receptor	GNormPlus
+7811698	20200	Calcyclin|calcyclin	GNormPlus|MESH
+7811698	100348755	Calcyclin	GNormPlus
+7811700	3630	insulin	GNormPlus
+7811708	6648	Mn-SOD|manganese SOD	GNormPlus
+7811954	79784	myosin	GNormPlus
+7811963	100134914	hsp70|Hsp70	GNormPlus
+7811963	100736433	Hsc70|hsc70	GNormPlus
+7812804	171101	gastrin-releasing peptide	GNormPlus
+7812804	499194	neuromedin B	GNormPlus
+7812810	351	beta-amyloid peptide|A beta	GNormPlus
+7812957	2520	gastrin	GNormPlus
+7812957	885	Cholecystokinin|cholecystokinin	GNormPlus
+7812957	887	gastrin receptor	GNormPlus
+7812962	16000	IGF-I	GNormPlus
+7812962	16001	IGF-I receptor	GNormPlus
+7812962	3479	IGF-I|Insulin-like growth factor I	GNormPlus
+7812962	3480	IGF-I receptor	GNormPlus
+7813169	10242	beta 2	GNormPlus
+7812588	9855	FRG	GNormPlus
+7812819	3350	5-HT1A receptor	GNormPlus
+7812819	3356	5-HT2 receptor	GNormPlus
+7812819	51497	TH1	GNormPlus
+7812973	2736	ThP-1	GNormPlus
+7812979	3558	IL-2	GNormPlus
+7812982	644914	p21	GNormPlus
+7812988	5243	P-GP|P-glycoprotein|mdr1	MESH|GNormPlus
+7812631	1906;1908	ET-1 and ET-3	GNormPlus
+7812631	1908	ET-3 and sarafotoxin 6c	GNormPlus
+7812631	1909	ETA	GNormPlus
+7812834	100507436	HLA class I antigen	GNormPlus
+7812834	3106	HLA-B27	GNormPlus
+7813016	84446	sad1	GNormPlus
+7813017	4953	ornithine decarboxylase	GNormPlus
+7813020	181061	xol-1	MESH|GNormPlus
+7813020	6383	sdc-2	GNormPlus
+7813219	6462	SHBG|sex hormone-binding globulin	GNormPlus|MESH
+7813219	866	corticosteroid-binding globulin	GNormPlus
+7812645	6750	somatostatin	GNormPlus
+7812650	3458	interferon-gamma	GNormPlus
+7812650	3552	interleukin-1	GNormPlus
+7812650	834	interleukin-1 beta converting enzyme	GNormPlus
+7812649	7124	tumor necrosis factor|TNF	GNormPlus
+7812839	17196	mBP	GNormPlus
+7812652	7852	chemokine receptor	GNormPlus
+7812655	19122	Prion protein|PrP	GNormPlus
+7812655	281427	prion protein|PrP	GNormPlus
+7812657	155908	Rev	GNormPlus
+7812844	100009274	ACE	GNormPlus
+7812848	3630	Insulin|insulin	GNormPlus
+7813046	19293	parvalbumin	GNormPlus
+7813046	20194	P11	GNormPlus
+7813046	20202	P14	GNormPlus
+7813046	69745	P12	GNormPlus
+7812658	55193	PB1	GNormPlus
+7812658	856862	NPI-1	GNormPlus
+7812666	51497	TH1	GNormPlus
+7813053	627	BDNF|brain-derived neurotrophic factor	GNormPlus
+7813061	5319	phospholipase A2	GNormPlus
+7813068	338	apolipoprotein B	GNormPlus
+7813070	57338	HDL2	GNormPlus
+7812672	728	C5a	GNormPlus
+7812677	1959	early growth response gene-2|EGR2	GNormPlus
+7812677	2353	c-fos|FOS	GNormPlus
+7812677	760	Ca2	GNormPlus
+7812689	3779	beta 1	GNormPlus
+7812692	2796	LHRH	GNormPlus
+7812882	3565	IL-4	GNormPlus
+7813005	6606	SMA	GNormPlus
+7813073	348	apolipoprotein E|Apolipoprotein E	GNormPlus
+7813073	53369	HDL3	GNormPlus
+7813073	57338	HDL2	GNormPlus
+7813075	338	apoB100	MESH|GNormPlus
+7813075	4018	lipoprotein(a)|Lp(a)|Lipoprotein(a)|apolipoprotein(a)	GNormPlus
+7813081	175	glycosylasparaginase|GA	GNormPlus
+7813083	1760	myotonin protein kinase	GNormPlus
+7813084	348	Apolipoprotein E2|apo E|apo E2|apo E3|apo E4|apolipoprotein (apo) E	GNormPlus|MESH
+7812520	1380	CD21	GNormPlus
+7812520	4502	MT2	GNormPlus
+7812520	54474	CD20	GNormPlus
+7812520	5788	CD45	GNormPlus
+7812520	968	CD68	GNormPlus
+7812520	973	MB1	GNormPlus
+7812538	717	CO2	GNormPlus
+7812542	920	CD4	GNormPlus
+7812704	2703	CAE	GNormPlus
+7812712	7157	p53	GNormPlus
+7813100	3040	Alphaglobin	GNormPlus
+7812545	7450	vWF	GNormPlus
+7812546	920	CD4	GNormPlus
+7812546	925	CD8	GNormPlus
+7813101	3576	IL-8	GNormPlus
+7813101	60498	IgAN	GNormPlus
+7813105	3553	IL-1|IL-1 beta	GNormPlus
+7813105	968	CD68	GNormPlus
+7813106	920	CD4	GNormPlus
+7813108	1028	p57	GNormPlus
+7813108	6737	Ro(SSA)	GNormPlus
+7813108	6741	La(SSB)	GNormPlus
+7813111	16189	IL-4	GNormPlus
+7813111	16190	IL-4 receptor|IL-4R	GNormPlus
+7812548	3576	IL-8|interleukin-8	GNormPlus
+7812548	6348	MIP-1 alpha|macrophage inflammatory protein-1 alpha	GNormPlus
+7812548	925	CD8	GNormPlus
+7812549	3117	HLA DQ alpha	GNormPlus
+7812553	2147	serine protease	GNormPlus
+7812735	1644	DOPA decarboxylase	GNormPlus
+7812738	10927	spin-1	GNormPlus
+7812738	1909	eta	GNormPlus
+7812919	7431	Vimentin	GNormPlus|MESH
+7812919	2026	neuron-specific enolase	GNormPlus
+7812919	27087	Leu-7	GNormPlus
+7812919	6271	S100	GNormPlus
+7812746	169981;54466	spin 3/2 and 9/2	GNormPlus
+7812928	11870	YAC-1	GNormPlus
+7812928	16183	interleukin-2	GNormPlus
+7812765	25351	GLUT2	GNormPlus
+7812765	6514	GLUT2	GNormPlus
+7812939	847	catalase	GNormPlus|MESH
+7812939	2936	glutathione reductase	GNormPlus
+7812939	373156	glutathione-S-transferase	GNormPlus
+7812576	3559	CD25	GNormPlus
+7812576	3689	CD18	GNormPlus
+7812576	920	CD4	GNormPlus
+7812576	929	CD14	GNormPlus
+7812780	1270	CNTF	GNormPlus
+7812780	25707	CNTF|ciliary neurotrophic factor	GNormPlus
+7812946	7157	p53	GNormPlus
+7812948	1029	p16|CDKN2	GNormPlus
+7812951	596	bcl-2	GNormPlus
+7812951	7157	p53	GNormPlus
+7812953	3480	IGF-IR|insulin-like growth factor I receptor	GNormPlus
+7813168	10242	beta 2	GNormPlus
+7813819	2773	G(i) alpha 1, G(i) alpha 2, G(i) alpha 3	GNormPlus
+7813819	2778	Gs alpha	GNormPlus
+7813819	6750	somatostatin|Somatostatin	GNormPlus
+7813819	91107	G(o) alpha	GNormPlus
+7813328	2244	fibrinogen	GNormPlus
+7813328	2335	fibronectin	GNormPlus
+7813328	7448	vitronectin	GNormPlus
+7813513	18792	urokinase-like plasminogen activator|u-PA	GNormPlus
+7813514	280733	biglycan	GNormPlus
+7813519	25661	fibronectin	GNormPlus
+7813519	29154	m-calpain	GNormPlus
+7813533	3030	Long-chain 3-hydroxyacyl-CoA dehydrogenase	GNormPlus
+7813542	29238	dopamine D3 receptor	MESH|GNormPlus
+7813680	17756	microtubule-associated protein 2	GNormPlus
+7813681	310218	CA1	GNormPlus
+7813344	80218	San	GNormPlus
+7813928	25833	PLA1	GNormPlus
+7813567	310218	CA1	GNormPlus
+7813571	966	min-1	GNormPlus
+7813576	4986	kappa-opioid receptor	GNormPlus
+7813707	920	CD4	GNormPlus
+7813707	925	CD8	GNormPlus
+7813710	1440	G-CSF	GNormPlus
+7813710	7938	CP20	GNormPlus
+7813357	1496187	PAb1801	GNormPlus
+7813357	7157	p53	GNormPlus
+7813366	54474	CD20	GNormPlus
+7813581	3350	5-HT1A receptor|5-HT1A	GNormPlus
+7813581	3356	5-HT2 receptor	GNormPlus
+7813583	29237	enkephalin	GNormPlus
+7813584	759	CA1	GNormPlus
+7813921	10855	HPA-1	GNormPlus
+7813923	11169	and 1 and 3	GNormPlus
+7813598	2688	Growth hormone|growth hormone	GNormPlus
+7813599	2688	growth hormone	GNormPlus
+7813600	3479	IGF-I|Insulin-like growth factor I	GNormPlus
+7813600	6822	DHEA-S	GNormPlus
+7813606	25051	GLP-1 receptor	GNormPlus|MESH|gene2pubmed
+7813606	24952	glucagon-like peptide 1|GLP-1	GNormPlus
+7813609	15526	Mortalin|mortalin	gene2pubmed|MESH|GNormPlus
+7813741	3576	NaF	GNormPlus
+7813389	9173;292	T1 and T2	GNormPlus
+7813397	4137;51115	microtubule-associated protein, tau	GNormPlus
+7813614	3156	HMG CoA reductase	GNormPlus
+7813614	3159	HMGR	GNormPlus
+7813744	5972	renin	GNormPlus
+7813269	260431	COPD	GNormPlus
+7813624	6962	TCR|T cell receptors	GNormPlus
+7813626	397921	Nucleoplasmin|nucleoplasmin	GNormPlus
+7813420	22178	DHICA oxidase|TRP1|Tyrosinase related protein 1	MESH|GNormPlus|gene2pubmed
+7813420	104042	TRP2	GNormPlus
+7813420	13190	DOPAchrome tautomerase|tyrosinase-related protein 2	GNormPlus
+7813420	22173	tyrosinase	GNormPlus
+7813641	56994	CPT	GNormPlus
+7813773	50719	E-16	GNormPlus
+7813776	15978	gamma IFN|gamma Interferon|gamma interferon (gamma IFN	GNormPlus|gene2pubmed
+7813776	15900	ICSBP	GNormPlus
+7813783	19118	Prm-1	gene2pubmed|GNormPlus
+7813783	19119	Prm-2	GNormPlus|gene2pubmed
+7813421	34908	sna|snail	gene2pubmed|MESH|GNormPlus
+7813426	3569	IL-6|interleukin-6|Interleukin-6	GNormPlus
+7813426	3570	IL-6R alpha	GNormPlus
+7813426	3572	gp130	GNormPlus
+7813434	18986	Oct-1	GNormPlus|MESH
+7813434	18987	Oct-2	GNormPlus|MESH
+7813648	9373	PLAP|phospholipase A2 activating protein	GNormPlus|MESH
+7813648	3827	bradykinin	GNormPlus
+7813785	2720	beta-galactosidase	GNormPlus
+7813786	379053	XMyoD|MyoD	GNormPlus
+7813786	380452	MEF2A|XMEF2A	GNormPlus
+7813786	399340	MEF2	GNormPlus
+7813786	4205	MEF2A	GNormPlus
+7813786	6722	SRF|MCM1	GNormPlus
+7813791	832523	TTG|ttg	GNormPlus|gene2pubmed
+7813280	10242	beta 2	GNormPlus
+7813439	7157	p53	GNormPlus
+7813440	851624	Cdc34|Ubc3	GNormPlus|MESH
+7813440	852822	Rad6|Ubc2	GNormPlus|gene2pubmed|gene_interactions|BioGRID
+7813440	856709	Gcn4	BioGRID|gene2pubmed|GNormPlus
+7813440	850620	ubiquitin	GNormPlus
+7813443	3183	hnRNP	GNormPlus
+7813443	57819	snRNP	GNormPlus
+7813445	899	Cyclin F|cyclin F	MESH|gene2pubmed|GNormPlus
+7813445	5111	cyclin	GNormPlus
+7813445	850539	cdc4	GNormPlus
+7813445	890	cyclins A and B|cyclin A	GNormPlus
+7813654	116677	Par2	GNormPlus
+7813654	25439	Par1	GNormPlus
+7813799	7471	Wnt-1	GNormPlus
+7813800	3298	HSF2	GNormPlus|MESH
+7813800	15481	HSC70	GNormPlus
+7813800	15499	HSF1	GNormPlus
+7813800	15500	Heat shock factor 2|HSF2	GNormPlus
+7813800	15519	HSP89	GNormPlus
+7813448	6736	SRY	MESH|GNormPlus
+7813449	6947	Tc1	GNormPlus
+7813459	213	serum albumin	MESH|GNormPlus
+7813804	3630	insulin	GNormPlus
+7813809	21788	lacI	GNormPlus
+7813813	15277	HKII|hexokinase II	RGD|GNormPlus
+7813813	20528	GLUT4	MESH|GNormPlus
+7813471	60329	relax	GNormPlus
+7813473	6534	PROT	GNormPlus
+7813478	13112	Cyp3a-11	gene2pubmed|GNormPlus
+7813478	13113	Cyp3a-13	gene2pubmed|GNormPlus
+7813478	13114	Cyp3a-16	gene2pubmed|GNormPlus
+7813816	171528	GLP-I|glucagon-like peptide I	GNormPlus
+7813817	19185	AF1	GNormPlus
+7813817	20526	GLUT2	GNormPlus
+7813818	7035	Tissue factor pathway inhibitor|TFPI|tissue factor pathway inhibitor	GNormPlus
+7813488	25253	dipeptidylpeptidase IV	GNormPlus
+7814085	590	BuCHE|BuChE|butyrylcholinesterase	GNormPlus|MESH
+7814266	4353	H2O2-myeloperoxidase|MPO	GNormPlus
+7814714	280804	somatotropin	GNormPlus
+7814717	100532204	milk	GNormPlus
+7814092	3497	Immunoglobulin E|IgE	GNormPlus
+7814101	966	min-1	GNormPlus
+7814511	7011359	VP7	GNormPlus
+7814719	103157409	calving ease|Calving ease	GNormPlus
+7814722	104978413	IGF-I	GNormPlus
+7814722	280804	somatotropin	GNormPlus
+7814722	281191	growth hormone-releasing factor	GNormPlus
+7814522	712	C1q	GNormPlus
+7814529	944568	HBeAg	GNormPlus
+7814728	513267	ADF	GNormPlus
+7814734	104968582	cytochrome c	GNormPlus
+7814543	717	CO2	GNormPlus
+7814117	6597	SnF2	GNormPlus
+7813942	6317	SCC	GNormPlus
+7813945	51251	Lupin|lupin	GNormPlus
+7814357	1557	CYP2C	GNormPlus
+7814357	1565	CYP2D6	GNormPlus
+7814363	850911	FRE1|Fre1|Fre1p	GNormPlus|gene2pubmed
+7814363	855035	MAC1	GNormPlus|MESH
+7814365	851335	ARF1|Arf1	GNormPlus|BioGRID|gene_interactions|gene2pubmed
+7814365	853313	HOG4|PBS2|SFS4	gene2pubmed|BioGRID|GNormPlus
+7814368	280685	thrombin	GNormPlus
+7814603	2641	Glucagon-like peptide-1|GLP-1	GNormPlus
+7814604	79425	ClC-K1	MESH|GNormPlus|RGD|gene2pubmed
+7814369	29230	SE|Squalene epoxidase|squalene epoxidase	GNormPlus|gene2pubmed|RGD
+7814369	117018	ERG 1	GNormPlus
+7814376	375	ARF1|hARF1	GNormPlus|MESH
+7814376	400	ARL1|hARL1	gene2pubmed|GNormPlus
+7814376	2822	phospholipase D|PLD	GNormPlus
+7814376	64310	rARF1	GNormPlus
+7814383	108718427	p58	GNormPlus
+7814383	394429	p54	GNormPlus
+7814383	496405	p97	GNormPlus
+7814606	100715102	Trp2	GNormPlus
+7813983	3730	kal	GNormPlus
+7814142	283131	Vinc	GNormPlus
+7814142	283871	Pgp|P-gp	GNormPlus
+7814142	4363	MRP	GNormPlus
+7814145	1969	ECK	GNormPlus
+7814145	2064	ERB-B2	GNormPlus
+7814145	2264	FGF-R4	GNormPlus
+7814145	3480	IGFI-R	GNormPlus
+7814145	3791	KDR	GNormPlus
+7814145	4914	TRK-A	GNormPlus
+7814145	5979	RET	GNormPlus
+7814152	596	Bcl-2	GNormPlus
+7814155	4828	nmb	GNormPlus
+7814155	6490	pMEL17	GNormPlus
+7814155	68039	nmb	GNormPlus
+7814384	104974671	phospholipase A2|PLA2	GNormPlus
+7814385	5595	p44erk-1	MESH|GNormPlus
+7814385	2335	fibronectin	GNormPlus
+7814385	3688	beta 1 integrins	GNormPlus
+7814385	8814	p42	GNormPlus
+7814622	100616444	env	GNormPlus
+7814622	920	CD4	GNormPlus
+7814625	966	min-1	GNormPlus
+7813998	632	osteocalcin	GNormPlus|MESH
+7814401	19730	RGDS	GNormPlus
+7814401	5900	RGDS	GNormPlus
+7814402	14813	NR2C	GNormPlus|gene2pubmed
+7814402	14810	NMDAR1	GNormPlus
+7814404	1301	COL11A1	gene2pubmed|GNormPlus
+7814404	6667	Sp1	GNormPlus
+7814404	7020	AP2	GNormPlus
+7814409	822	Cap G|cap G	gene2pubmed|GNormPlus|MESH
+7814630	24654	PLC beta 1	GNormPlus
+7814630	25738	PLC gamma 1	GNormPlus
+7814190	100508689	mucin	GNormPlus
+7814413	12400	CBF-B	GNormPlus
+7814413	12606	CBF-A	GNormPlus
+7814413	4800	CBF-A	GNormPlus
+7814413	4802	CBF-C	GNormPlus
+7814413	865	CBF-B	GNormPlus
+7814415	110391	DHPR	GNormPlus
+7814416	94202	PC12-PTP1	RGD|GNormPlus|MESH|gene2pubmed
+7814416	24697	protein tyrosine phosphatase|PTP	GNormPlus
+7814416	310738	NGF|nerve growth factor	GNormPlus
+7814420	25139	GLUT4	MESH|GNormPlus
+7814420	25467	IRS-1	MESH|GNormPlus
+7814420	24954	insulin receptor	GNormPlus
+7814632	18670	mdr2	GNormPlus|gene2pubmed
+7814632	67078	P-glycoprotein|Pgp	GNormPlus
+7814633	7124	TNF-alpha	GNormPlus
+7814642	25303	cMOAT	GNormPlus
+7814643	25051	GLP-1 receptor	GNormPlus|MESH
+7814643	24952	GLP-1 and 3|Glucagon-like peptide-1|GLP-1	GNormPlus
+7814643	25040	glucose-dependent insulinotropic peptide	GNormPlus
+7814012	2157	coagulation factor VIII|FVIII|factor VIII	GNormPlus
+7814013	5053	phenylalanine hydroxylase	MESH|GNormPlus
+7814191	6271	smooth-muscle actin, and S-100	GNormPlus
+7814191	7431	vimentin	GNormPlus
+7814192	7157	p53	GNormPlus
+7814195	5111	PCNA|proliferating cell nuclear antigen	GNormPlus
+7814196	1956	epidermal growth factor receptor|EGF-R	GNormPlus
+7814196	2064	c-erbB-2	GNormPlus
+7814196	374	AR|amphiregulin	GNormPlus
+7814196	7039	TGF-alpha	GNormPlus
+7814196	7124	transforming growth factor-alpha	GNormPlus
+7814428	16059	IgG	GNormPlus
+7814645	24179	AngII|angiotensin II	GNormPlus
+7814645	24180	AT1-R|AT1a	GNormPlus
+7814645	24182	AT2-R	GNormPlus
+7814645	81638	AT1b	GNormPlus
+7814647	3565	IL-4	GNormPlus
+7814647	3586	IL-10	GNormPlus
+7814647	958	CD40	GNormPlus
+7814647	959	gp39|CD40 ligand	GNormPlus
+7814649	3552	IL-1	GNormPlus
+7814649	3557	icIL-1ra|IL-1ra|interleukin-1 receptor antagonist|Interleukin-1 receptor antagonist	GNormPlus
+7814649	64374	sIL-1	GNormPlus
+7814650	403850	IL-8|Interleukin-8	gene2pubmed|GNormPlus
+7814650	403975	ICAM-1	GNormPlus
+7814025	348	apolipoprotein E|apo E4|apo E	GNormPlus
+7814032	2737	GLI3|GCPS	GNormPlus
+7814035	3587	IL-10R|interleukin-10 receptor	gene2pubmed|GNormPlus
+7814441	65035	Ca2+ receptor|CaR	GNormPlus
+7814664	543313	peroxidase	GNormPlus
+7814672	286936	CT beta	GNormPlus
+7814050	116637	CCl4	GNormPlus
+7814444	633	biglycan	GNormPlus
+7814444	7124	Tumor necrosis factor|TNF	GNormPlus
+7814444	960	heparan sulfate proteoglycan|HSPG	GNormPlus
+7814452	1956	epidermal growth factor (EGF) receptor|EGF receptor	GNormPlus
+7814682	5816	parvalbumin|Parvalbumin	GNormPlus
+7814690	54226	amyloid precursor protein|APP	GNormPlus
+7814458	27087	CD57	GNormPlus
+7814458	3683	CD11a	GNormPlus
+7814458	3688	CD29	GNormPlus
+7814458	5788	CD45	GNormPlus
+7814458	920	CD4	GNormPlus
+7814458	925	CD8	GNormPlus
+7814695	4143	Sams	GNormPlus
+7814073	79931	Lind	GNormPlus
+7814074	108635503	IFN-tau	GNormPlus
+7814074	111654	IFN-alpha	GNormPlus
+7814074	12977	CSF-1	GNormPlus
+7814074	12981	GM-CSF	GNormPlus
+7814074	12985	G-CSF	GNormPlus
+7814074	16187	IL-3	GNormPlus
+7814074	16878	LIF|Leukemia inhibitory factor	GNormPlus
+7814241	920	CD4	GNormPlus
+7815374	2335	fibronectin	GNormPlus
+7815387	3643	IR|insulin receptor	GNormPlus
+7814832	2688	growth hormone|GH	GNormPlus
+7815169	396884	somatotropin	GNormPlus
+7815388	4922	Neurotensin|neurotensin	GNormPlus
+7814849	24249	calbindin-D9k	MESH|GNormPlus
+7814849	83839	calbindin	MESH|GNormPlus
+7815176	24680	PKC alpha	GNormPlus
+7814855	1636	ACE|angiotensin converting enzyme|Angiotensin converting enzyme	GNormPlus
+7815041	590	cholinesterase	GNormPlus
+7815414	27130	Inv	GNormPlus
+7815417	2778	GNAS1|Gs alpha	gene2pubmed|GNormPlus
+7815417	14683	GNAS1	GNormPlus
+7814861	2217	alpha-chain	GNormPlus
+7814861	3558	IL-2	GNormPlus
+7814861	3600	IL-15	GNormPlus
+7814861	959	CD40L	GNormPlus
+7814862	2214	Fc gamma RIIIA	GNormPlus
+7814862	3558	IL-2	GNormPlus
+7814862	4609	c-myc	GNormPlus
+7814865	1800414	DR1501	GNormPlus
+7814865	2945592	DP0402	GNormPlus
+7815054	10714	p66	GNormPlus
+7815054	3578	p40	GNormPlus
+7815054	5111	cyclin	GNormPlus
+7815054	983	p34cdc2	GNormPlus
+7815055	24224	bcl-2|Bcl-2	GNormPlus
+7815456	29248	cTNI|Cardiac troponin I	GNormPlus
+7814870	3107	MHC	GNormPlus
+7814873	2214	CD16	GNormPlus
+7814873	3458	IFN-gamma	GNormPlus
+7814873	3558	IL-2	GNormPlus
+7814873	5788	CD45	GNormPlus
+7814873	933	CD22	GNormPlus
+7814875	16186	gamma-C	GNormPlus
+7814875	21636	V gamma 2	GNormPlus
+7814880	20878	allogeneic (I-Ad) or syngeneic (I-Ak	GNormPlus
+7815058	18049	NGF|nerve growth factor	GNormPlus
+7815058	396466	NGF	GNormPlus
+7815059	5031	P2 purinoceptor	GNormPlus
+7815220	4146	CMP	GNormPlus
+7815230	1738	Lipoamide dehydrogenase|lipoamide dehydrogenase	GNormPlus|MESH
+7815422	2690	growth hormone receptor	GNormPlus
+7815434	410	ARSA|arylsulphatase A	GNormPlus
+7814884	25290	5-lipoxygenase	GNormPlus
+7814884	25651	P-selectin	GNormPlus
+7814884	309684	CD18	GNormPlus
+7814884	58949	platelet-activating factor (PAF)-receptor	GNormPlus
+7814888	5340	Plasmin|plasmin	GNormPlus|BioGRID|MESH|gene2pubmed|HPRD
+7814888	730	Complement component C7	MESH|gene_interactions|BioGRID|HPRD|gene2pubmed|GNormPlus
+7815068	396092	DM-GRASP|SC1	GNormPlus
+7815068	6941	SC1	GNormPlus
+7815237	5580	May 1	GNormPlus
+7815439	3240	haptoglobin	GNormPlus
+7814889	1437	GM-CSF	GNormPlus
+7814889	16153	IL-10	GNormPlus
+7814889	3458	IFN-gamma	GNormPlus
+7814889	3558	IL-2	GNormPlus
+7814889	3565	IL-4	GNormPlus
+7814889	3586	IL-10	GNormPlus
+7814889	51497	Th1	GNormPlus
+7814889	7124	TNF	GNormPlus
+7814890	16193	IL-6	GNormPlus
+7814892	920	CD4	GNormPlus
+7814892	925	CD8	GNormPlus
+7815069	396257	Ca2	GNormPlus
+7815247	7941	PAF acetylhydrolase|PAF-AH|Platelet-activating factor acetylhydrolase	GNormPlus
+7815247	966	min-1	GNormPlus
+7815256	3274	histamine (H2)-receptor	GNormPlus
+7814757	717	CO2	GNormPlus
+7815077	1769	ATPase	GNormPlus
+7815077	3423	SIDS	GNormPlus
+7815081	4763	neurofibromatosis 1|NF1	GNormPlus
+7815081	7157	TP53	GNormPlus
+7815285	810	CLp	GNormPlus
+7815285	923	t1/2p	GNormPlus
+7814775	183	angiotensin II|angiotensin II and 5	GNormPlus
+7814958	6741	SS-B	GNormPlus
+7814972	24516	jun	GNormPlus
+7814972	24517	jun-B	GNormPlus
+7814972	314322	c-fos|fos	GNormPlus
+7815324	116562	interleukin-2|IL-2	GNormPlus
+7815328	106479023	P < .05	GNormPlus
+7815334	1477686	MK-0383	GNormPlus
+7815334	482840	tissue-type plasminogen activator	GNormPlus
+7814785	3559	CD25	GNormPlus
+7814988	4318	MMP-9|matrix metalloproteinase-9	GNormPlus|MESH
+7815132	4908	neurotrophic factor	GNormPlus
+7815343	24176	beta 2-adrenoceptor	GNormPlus
+7815354	7432	VIP|vasoactive intestinal polypeptide	GNormPlus
+7815358	303413	myeloperoxidase|MPO	GNormPlus
+7814797	116637	CCl4	GNormPlus
+7814797	24179	Angiotensin II|angiotensin II|angiotensin II and vasopressin	GNormPlus
+7814798	1435	M-CSF|macrophage colony stimulating factor	GNormPlus
+7814804	102724197	gamma-glutamyl transpeptidase	GNormPlus
+7815363	300795	PAF|platelet-activating factor	GNormPlus
+7815373	3552	IL-1	GNormPlus
+7815373	3565	IL-4	GNormPlus
+7815373	3565;3569	IL-4- and IL-6	GNormPlus
+7815373	3569	IL-6	GNormPlus
+7815799	4878	ANF	GNormPlus
+7816007	3552	interleukin-1 alpha	GNormPlus
+7816007	3553	interleukin-1 beta	GNormPlus
+7816007	3558	interleukin-2	GNormPlus
+7816007	3569;7124	interleukin-6 and tumor necrosis factor-alpha	GNormPlus
+7816007	5741	PTH|parathyroid hormone	GNormPlus
+7816007	5744	parathyroid hormone-related peptide	GNormPlus
